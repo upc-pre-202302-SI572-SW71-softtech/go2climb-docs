@@ -2,15 +2,14 @@
 
 Write documentation using Markdown, preview as HTML with live reload and render as PDF. Version control your document with Git.
 
-## Why?
-
-There's probably a lot of easier ways to do this. I just wanted to doing this in my own way. I also needed this for a project at uni.
-
 ## Requirements
 
 - [Node.js](https://nodejs.org/en) (LTS, only tested with 18).
+
   - **Recommended:** install using a version manager like [nvm](https://github.com/nvm-sh/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows).
+
 - [Yarn v2](https://yarnpkg.com/)
+
   - **Recommended:** enable corepack to automatically install Yarn: `corepack enable` on any terminal.
 
 ## Quick start
