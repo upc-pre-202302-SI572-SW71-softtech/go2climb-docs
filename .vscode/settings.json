@@ -1,0 +1,52 @@
+{
+  "git.autofetch": true,
+  "files.insertFinalNewline": true,
+  "editor.rulers": [120],
+  "[markdown]": {
+    "editor.rulers": []
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true,
+    "source.fixAll.prettier": true
+  },
+  "editor.linkedEditing": true,
+  "editor.suggest.preview": true,
+  "editor.bracketPairColorization.enabled": true,
+  "markdown.validate.enabled": true,
+  "markdown.validate.fileLinks.enabled": "warning",
+  "markdown.validate.fragmentLinks.enabled": "warning",
+  "markdown.validate.fileLinks.markdownFragmentLinks": "inherit",
+  "markdown.validate.referenceLinks.enabled": "ignore",
+  "markdown.validate.duplicateLinkDefinitions.enabled": "ignore",
+  "markdown.validate.unusedLinkDefinitions.enabled": "ignore",
+  "liveServer.settings.root": "/output",
+  "liveServer.settings.mount": [
+    ["/static", "./docs/static"],
+    ["/css", "./src/css"]
+  ],
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    ".yarn/**",
+    "yarn.lock",
+    "node_modules/**",
+    "docs/**",
+    "src/**/*.ts",
+    "src/**/*.hbs",
+    "**/*.json",
+    "**/*.yml"
+  ],
+  "javascript.preferences.quoteStyle": "double",
+  "javascript.referencesCodeLens.enabled": true,
+  "typescript.preferences.quoteStyle": "double",
+  "typescript.referencesCodeLens.enabled": true,
+  "[javascript][typescript][css][html][handlebars][json][jsonc][markdown][yaml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

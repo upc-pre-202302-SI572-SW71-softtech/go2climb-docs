@@ -1,0 +1,16 @@
+{
+  "config": {
+    "extends": "markdownlint/style/prettier",
+    "default": true,
+    "line-length": false,
+    "no-duplicate-header": {
+      "siblings_only": true
+    },
+    "no-inline-html": false,
+    "first-line-h1": false,
+    "single-h1": {
+      "front_matter_title": ""
+    }
+  },
+  "ignores": ["node_modules", "output"]
+}
