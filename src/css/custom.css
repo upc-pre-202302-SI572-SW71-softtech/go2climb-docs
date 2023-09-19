@@ -1,1 +1,57 @@
 /* Any styles you write here will be included in the rendered document */
+
+table {
+  width: 100%;
+  font-size: 12px;
+}
+
+/* Reduce space taken by unordered list bullets in tables */
+table td ul {
+  padding-inline-start: 30px;
+}
+
+.team-member-container {
+  display: flex;
+}
+
+.team-member-container .team-member-img-container {
+  margin-right: 1rem;
+  min-width: 20%;
+}
+
+.team-member-container img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.table-separator {
+  display: none;
+}
+
+.references p {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
+.cover-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.cover-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.cover-body {
+  text-align: center;
+}
+
+.cover-semester {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3rem;
+}
