@@ -57,6 +57,10 @@ lang: en
 
 !include (chapters/6-product-implementation.md)
 
+## Conclusiones
+
+!include (conclusiones.md)
+
 ## Bibliografia
 
 !include (bibliografia.md)
