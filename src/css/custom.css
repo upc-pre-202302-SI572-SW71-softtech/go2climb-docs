@@ -55,3 +55,16 @@ table td ul {
   font-weight: bold;
   margin-top: 3rem;
 }
+
+.small-subtitle {
+  font-size: x-small;
+  font-weight: bold;
+}
+.medium-subtitle{
+  font-size: small;
+  font-weight: bold;
+}
+
+.table-competitive {
+  width: 70%;
+}

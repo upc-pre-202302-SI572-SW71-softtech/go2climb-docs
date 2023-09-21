@@ -1,5 +1,5 @@
 ---
-title: Sample document
+title: Project Statement
 lang: en
 ---
 
@@ -33,9 +33,13 @@ lang: en
 
 !include (chapters/1-intro.md)
 
+{.page-break}
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 !include (chapters/2-requirements-elicitation.md)
+
+{.page-break}
 
 ## Capítulo III: Requirements Specification
 
