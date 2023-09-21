@@ -11,32 +11,7 @@ Write documentation using Markdown, preview as HTML with live reload and render 
 - [Yarn v2](https://yarnpkg.com/)
 
   - **Recommended:** enable corepack to automatically install Yarn: `corepack enable` on any terminal.
-
-## Quick start
-
-There's two ways you can start using this for your own documents.
-
-### The recommended way
-
-Create a [duplicate of the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository), then add this repository as the upstream remote so that you can pull and merge improvements and features made to the project.
-
-```sh
-# Add the upstream remote to your local copy of the repository
-git remote add upstream https://github.com/dalbitresb12/markdown-docs.git
-# Pull and merge the changes from the upstream
-git pull upstream main
-# Push the resulting commits to your repository
-git push origin main
-```
-
-Anytime you want to pull the latest changes from upstream, you will have to run the **last 2 commands**. You may have to run the first command as well if you delete the upstream remote, use, delete and clone again another copy of your repo where you configured the upstream initially.
-
-### Forking
-
-Just click on the fork button at the top of the page. This will allow you to quickly start writing documentation, but PRs made in your repository will, by default, be directed to the upstream repository (this one). There's **no way to change this behavior** until GitHub makes it configurable.
-
-> If you already forked the repository but want to move to using [the recommended way](#the-recommended-way), you can [request GitHub support to unlink your repository](https://stackoverflow.com/a/16052845/15040387) from this one. This will remove all the downsides of using a fork while keeping all the issues, PRs and commit history.
-
+    
 ## Installing modules
 
 Just run `yarn` on the workspace directory.
