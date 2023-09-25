@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/static/brand-color-go2climb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/static/go2climb-logo-invertido.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/static/go2climb-logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="doc: general Style Guidelines">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/chapters/5-solution-ui-ux-design.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapters/5-solution-ui-ux-design.md" afterDir="false" />
     </list>
@@ -67,8 +63,17 @@
       <updated>1695612665958</updated>
       <workItem from="1695612667239" duration="688000" />
       <workItem from="1695613396168" duration="709000" />
-      <workItem from="1695671700999" duration="1668000" />
+      <workItem from="1695671700999" duration="3446000" />
     </task>
+    <task id="LOCAL-00001" summary="doc: general Style Guidelines">
+      <option name="closed" value="true" />
+      <created>1695673405208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695673405208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="doc: general Style Guidelines" />
+    <option name="LAST_COMMIT_MESSAGE" value="doc: general Style Guidelines" />
   </component>
 </project>
