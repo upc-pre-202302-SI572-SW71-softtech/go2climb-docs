@@ -198,15 +198,6 @@ esquemas de categorización (alfabético, cronológico, por tópicos, según aud
      - Casos en los que se organizará el contenido según grupos específicos de usuarios.
      - Ejemplos de cómo se adaptará la información para diferentes audiencias.
 
-3. Ejemplos Prácticos
-
-   - Proporciona ejemplos específicos de cómo se aplicarán los sistemas de organización y categorización en la plataforma
-   Go2Climb. Estos ejemplos pueden incluir capturas de pantalla o diagramas de flujo.
-
-4. Consideraciones Especiales
-
-   - Destaca cualquier consideración especial o excepciones en la aplicación de estos sistemas de organización, si las
-   hubiera.
 
 #### Labeling Systems
 
@@ -262,11 +253,7 @@ como Title, Meta Tags Description, Keywords, Author y elementos ASO (App Store O
 
    - Meta Tags Description (Descripción): Proporciona una descripción breve y concisa de cada página del sitio web, que se
    mostrará en los resultados de búsqueda. Asegúrate de que cada descripción sea única y refleje el contenido de la página.
-
-   - Keywords (Palabras Clave): Identifica las palabras clave relevantes para cada página del sitio web. Estas palabras
-   clave ayudarán a los motores de búsqueda a comprender de qué trata el contenido.
-
-   - Author (Autor): Especifica el autor o autores de contenido relevante en el sitio web, si es aplicable.
+![seo-tags](../static/seo-tags.png)
 
 2. Etiquetas SEO para la Web Application
 
@@ -293,10 +280,7 @@ como Title, Meta Tags Description, Keywords, Author y elementos ASO (App Store O
    - App Description (Descripción de la Aplicación): Ofrece una descripción completa y atractiva de la aplicación,
    destacando sus beneficios y características únicas.
 
-4. Ejemplos Prácticos
 
-   - Proporciona ejemplos concretos de cómo se aplicarán estas etiquetas en las páginas del sitio web, Web Application y en
-   la presentación de la aplicación móvil en tiendas de aplicaciones.
 
 #### Searching Systems
 
@@ -318,9 +302,9 @@ En esta sección, explicamos las medidas que se implementarán para ayudar a los
 
 **Presentación de Datos Después de la Búsqueda:**
 
-Después de realizar una búsqueda, los datos se presentarán en una lista ordenada por relevancia. Cada resultado incluirá información esencial, como título, descripción breve y ubicación, para que los usuarios puedan evaluar rápidamente si es lo que están buscando.
+- Después de realizar una búsqueda, los datos se presentarán en una lista ordenada por relevancia. Cada resultado incluirá información esencial, como título, descripción breve y ubicación, para que los usuarios puedan evaluar rápidamente si es lo que están buscando.
 
-Nuestro objetivo es facilitar la búsqueda de información y garantizar que los usuarios encuentren contenido relevante de manera eficiente en nuestro producto digital.
+- Nuestro objetivo es facilitar la búsqueda de información y garantizar que los usuarios encuentren contenido relevante de manera eficiente en nuestro producto digital.
 
 
 #### Navigation Systems
@@ -356,20 +340,96 @@ Para lograrlo, se utilizarán métodos de navegación intuitivos y eficientes, t
 - Sugerencias Contextuales: Se proporcionarán sugerencias contextuales basadas en el comportamiento del usuario y sus
   preferencias, lo que facilitará la exploración y el descubrimiento de contenido relacionado.
 
-### Landing Page IJI Design
+
+![call to action navbar](../static/call-to-action-nav.png)
+El boton de "registrarme" redirige al usuario a la pagina de Iniciar sesion de la aplicacion web.
+![call to action hero](../static/call-to-action-hero.png)
+El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplicacion web.
+
+### Landing Page Design
+![hero](../static/hero.png)
+![landing 2](../static/landing-2.png)
+![landing 3](../static/landing-3.png)
+![landing 4](../static/landing-4.png)
+![landing 5](../static/landing-5.png)
+![landing 6](../static/landing-6.png)
+![landing 7](../static/landing-7.png)
 
 #### Landing Page Wireframe
 
+![landing wireframe](../static/landing-wireframe.png)
+
 #### Landing Page Mock-up
+![hero](../static/hero.png)
+![landing 2](../static/landing-2.png)
+![landing 3](../static/landing-3.png)
+![landing 4](../static/landing-4.png)
+![landing 5](../static/landing-5.png)
+![landing 6](../static/landing-6.png)
+![landing 7](../static/landing-7.png)
+[Link del mockup](https://www.figma.com/proto/oav5y3Z3qgQNVjlnxjKLxe/Landing-Page?page-id=0%3A1&type=design&node-id=29-2&viewport=910%2C2134%2C0.64&t=VKfBqLV5yPuf5OTD-1&scaling=min-zoom&mode=design)
 
 ### Applications UX/UI Design
 
 #### Applications Wireframes
+- Mobile App
+<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="300">
 
 #### Applications Wireflow Diagrams
+- Mobile App
+<img src="../static/mb_wireflow1.png" title="" alt="mobile_1" width="300">
+<img src="../static/Screenshot_1562.png" title="" alt="mobile_2" width="300">
+<img src="../static/mb_wireflow3.png" title="" alt="mobile_3" width="300">
+<img src="../static/mb_wireflow4.png" title="" alt="mobile_4" width="300">
+<img src="../static/mb_wireflow5.png" title="" alt="mobile_5" width="300">
 
 #### Applications Mock-ups
+- Mobile App
+<img src="../static/mb_mockups.png" title="" alt="mobile_mock" width="300">
 
 #### Applications User Flow Diagrams
+- Mobile App
+User Goal: Registrarse en la aplicación para acceder a las funciones personalizadas.
+Happy Path:
+El usuario abre la aplicación.
+Selecciona la opción de registro.
+Ingresa su nombre, correo electrónico y contraseña.
+Confirma la contraseña.
+Hace clic en el botón de registro.
+Recibe una confirmación de registro exitoso.
+<img src="../static/mb_uf1.png" title="" alt="mobile_11" width="300">
+Vista de Clima de Montañas:
+
+User Goal: Ver el pronóstico del clima para diferentes montañas.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Clima de Montañas".
+Selecciona una montaña de la lista.
+Obtiene información detallada sobre el clima actual y pronóstico para esa montaña.
+<img src="../static/mb_uf2.png" title="" alt="mobile_22" width="300">
+Vista de Salud (Alerta de Ayuda en la Montaña):
+
+User Goal: Enviar una alerta de ayuda en caso de perderse en la montaña.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Salud".
+Selecciona la opción de enviar una alerta de ayuda.
+Confirma la solicitud de ayuda.
+La aplicación registra la ubicación del usuario y notifica a los servicios de rescate.
+<img src="../static/mb_uf3.png" title="" alt="mobile_33" width="300">
+Vista de Rutas:
+
+User Goal: Ver las rutas disponibles para hacer senderismo o escalada.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Rutas".
+Explora las diferentes opciones de rutas.
+Selecciona una ruta específica.
+Obtiene información detallada de la ruta, incluyendo mapas, duración y dificultad.
+<img src="../static/mb_uf4.png" title="" alt="mobile_44" width="300">
+<img src="../static/mb_ufc.png" title="" alt="mobile_55" width="300">
 
 ### Applications Prototyping
+
+- Mobile App
+<img src="../static/mb_prototype.png" title="" alt="mobile_pro" width="300">

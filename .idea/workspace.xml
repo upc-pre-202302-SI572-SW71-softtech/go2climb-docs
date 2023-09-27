@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="doc: general Style Guidelines">
+    <list default="true" id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="doc: general Style Guidelines to searching systems">
+      <change afterPath="$PROJECT_DIR$/docs/static/call-to-action-hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/call-to-action-nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/landing-wireframe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/seo-tags.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/chapters/5-solution-ui-ux-design.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapters/5-solution-ui-ux-design.md" afterDir="false" />
     </list>
@@ -30,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "docs/chapter-5/style-guidelines",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/repositorios/github/go2climb-docs/docs/static",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "D:\\repositorios\\github\\go2climb-docs\\node_modules\\stylelint",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;docs/chapter-5/style-guidelines&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/repositorios/github/go2climb-docs/docs/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;D:\\repositorios\\github\\go2climb-docs\\node_modules\\stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\repositorios\github\go2climb-docs\docs\static" />
@@ -63,7 +74,8 @@
       <updated>1695612665958</updated>
       <workItem from="1695612667239" duration="688000" />
       <workItem from="1695613396168" duration="709000" />
-      <workItem from="1695671700999" duration="3446000" />
+      <workItem from="1695671700999" duration="4563000" />
+      <workItem from="1695792954671" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="doc: general Style Guidelines">
       <option name="closed" value="true" />
@@ -73,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695673405208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="doc: general Style Guidelines to searching systems">
+      <option name="closed" value="true" />
+      <created>1695675221964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695675221964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="doc: general Style Guidelines" />
-    <option name="LAST_COMMIT_MESSAGE" value="doc: general Style Guidelines" />
+    <MESSAGE value="doc: general Style Guidelines to searching systems" />
+    <option name="LAST_COMMIT_MESSAGE" value="doc: general Style Guidelines to searching systems" />
   </component>
 </project>
