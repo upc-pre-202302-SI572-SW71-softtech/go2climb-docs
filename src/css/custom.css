@@ -68,3 +68,9 @@ table td ul {
 .table-competitive {
   width: 70%;
 }
+.user-persona-img {
+  height: 900px;
+}
+th .center-text, td .center-text {
+  text-align: center; /* Aliniamiento al centro para columnas con clase "center-text" */
+}

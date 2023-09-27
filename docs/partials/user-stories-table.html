@@ -1,0 +1,279 @@
+<table>
+  <tr>
+      <th class="center-text">Epic/Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th lass="center-text" >Relacionado con (Epic ID)</th>
+  </tr>
+  <tr>
+      <td>EP01</td>
+      <td>Búsqueda y reserva de servicios de alpinismo</td>
+      <td>Como turista interesado en actividades de alpinismo, deseo poder buscar y reservar servicios de alpinismo, para asegurar mi participación en las actividades que me atraen y planificar mi aventura al aire libre de manera conveniente.</td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>EP02</td>
+      <td>Experiencia de Usuario</td>
+      <td>Como turista, deseo una experiencia de usuario mejorada en la plataforma, para que pueda navegar de manera intuitiva, encontrar información relevante y disfrutar de la planificación de mis actividades al aire libre sin problemas.</td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>EP03</td>
+      <td>Colaboración con Agencias y Proveedores</td>
+      <td> Como agencia o proveedor de servicios de alpinismo, deseo poder colaborar eficazmente con la plataforma, para que pueda ofrecer mis servicios de manera efectiva a los usuarios finales y expandir mi alcance en el mercado de deportes al aire libre.</td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+    <td>EP04</td>
+    <td>Seguridad y Privacidad de Datos</td>
+    <td> Como turista, deseo que mis datos personales estén seguros y protegidos en las plataformas, para que pueda confiar plenamente en la confidencialidad de mis interacciones y la seguridad de mis datos personales.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <!--User Stories-->
+  <tr>
+    <td>US01</td>
+    <td>Búsqueda de Servicios de Alpinismo</td>
+    <td> Como turista interesado en actividades de alpinismo, deseo poder buscar servicios de alpinismo, para encontrar y explorar las actividades que me interesan.</td>
+    <td>
+    <b>Scenario: Realización Búsqueda</b> <br>
+    Dado que soy un turista en la búsqueda de servicios de alpinismo,<br>
+    Cuando ingreso palabras clave para buscar los servicios que requiero<br>
+    Entonces visualizo una lista de los servicios disponibles. <br>
+    <br>
+    <b>Scenario: Búsqueda sin resultados</b> <br>
+    Dado que soy un turista en la búsqueda de servicios de alpinismo,<br>
+    Cuando ingreso términos de búsqueda no validos o inexistentes<br>
+    Entonces no logro visualizar servicios o actividades <br>
+    <br>
+    <b>Scenario: Ver Detalles del Servicio</b> <br>
+    Dado que soy un turista interesado en un servicio específico,<br>
+    Cuando trato de ver los detalles del servicio seleccionado<br>
+    Entonces visualizo los detalles completos del servicio
+    </td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Reserva de Servicio de Alpinismo</td>
+    <td> Como turista interesado en actividades de alpinismo, deseo poder reservar servicios de alpinismo, para asegurar mi participación en las actividades que me atraen.</td>
+    <td>
+        <b>Scenario: Reserva Exitosa</b> <br>
+        Dado que soy un turista interesado en reservar un servicio,<br>
+        Cuando reservo un servicio de alpinismo,<br>
+        Entonces puedo seleccionar la fecha y hora deseada. <br>
+        <br>
+        <b>Scenario: Fecha y Hora No Disponible</b> <br>
+        Dado que soy un turista interesado en reservar un servicio,<br>
+        Cuando intento seleccionar una fecha y hora que ya está reservada o no está disponible,<br>
+        Entonces recibo un mensaje de error. <br>
+        <br>
+        <b>Scenario: Confirmación de Reserva</b> <br>
+        Dado que soy un turista interesado en reservar un servicio,<br>
+        Cuando confirmo mi reserva,<br>
+        Entonces recibo una confirmación de reserva por correo electrónico. <br>
+        <br>
+        <b>Scenario: No Confirmación de Reserva</b> <br>
+        Dado que soy un turista interesado en reservar un servicio,<br>
+        Cuando no recibo una confirmación de reserva por correo electrónico después de la confirmación,<br>
+        Entonces puedo contactar al soporte para resolver el problema.
+    </td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Visualizar reseña	de turista</td>
+    <td> Como agencia deseo visualizar las reseñas que tiene mi negocio para saber que puedo mejorar o agregar.</td>
+    <td>
+        <b>Scenario: Agencia quiere ver las reseñas de sus servicios</b> <br>
+        Dado que la agencia ya ha cumplido con varios servicios,<br>
+        Y los turistas han realizado reseñas sobre alguno de sus servicios <br>
+        Cuando la agencia ingrese a su perfil,<br>
+        Entonces en la parte final podrá visualizar la reseña que los usuarios han realizado en base a su experiencia. <br>
+        <br>
+        <b>Scenario:  Agencia no tiene reseña de sus servicios</b> <br>
+        Dado que la agencia aún no cuenta con servicios realizados Cuando ingrese a su perfil,<br>
+        Cuando ingrese a su perfil<br>
+        Y se encuentre en la sección de reseñas <br>
+        Entonces el sitio le indica que el servicio aún no cuenta con reseñas. <br>
+        <br>
+    </td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Añadir servicio	</td>
+    <td> Como agencia deseo agregar mis servicios para que mis clientes sepan más sobre lo que ofrezco.</td>
+    <td>
+        <b>Scenario: Agencia desea añadir un nuevo servicio</b> <br>
+        Dado que la agencia ha validado sus credenciales en la plataforma,<br>
+        Cuando la agencia hace clic en el botón para crear un nuevo servicio,<br>
+        Entonces la aplicación web le mostrará el formulario para la creación de un nuevo servicio. <br>
+        <br>
+        <b>Scenario:  Agencia desea programar la creación de un nuevo servicio </b> <br>
+        Dado que la agencia ha validado sus credenciales en la plataforma,<br>
+        Y quiere programar la creación de un servicio <br>
+        Cuando presione en agregar servicio<br>
+        Y ingrese la información del servicio <br>
+        Entonces en la parte final del formulario podrá ingresar la fecha de creación del servicio. <br>
+        <br>
+    </td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Ver ofertas	de servicios	</td>
+    <td> Como turista deseo ver ofertas y paquetes recomendados de diferentes agencias para escoger la mejor opción que se acomode a lo que necesito.</td>
+    <td>
+        <b>Scenario: Turista quiere ver paquetes en ofertas</b> <br>
+        Dado que el turista quiere emprender un nuevo viaje,<br>
+        Y entra a la aplicación web <br>
+        Cuando entre a la página principal de la aplicación web<br>
+        Entonces el sitio le muestra en la primera sección las ofertas disponibles. <br>
+        <br>
+        <b>Scenario:  Turista quiere ver los paquetes que le recomienda la aplicación web </b> <br>
+        Dado que el turista quiere emprender un nuevo viaje,<br>
+        Y entra a la aplicación web <br>
+        Cuando entre a la página principal de la aplicación web<br>
+        Entonces el sitio le muestra secciones donde hallará paquetes en base a su popularidad, cercanía y viajes anteriores. <br>
+        <br>
+    </td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Crear ofertas	</td>
+    <td> Como agencia deseo crear ofertas y descuentos de mis servicios para atraer a más clientes.	</td>
+    <td>
+        <b>Scenario: Agencia ingresa la información completa para crear la oferta</b> <br>
+        Dado que he validado mis credenciales,<br>
+        Y me encuentro en mi perfil <br>
+        Cuando agrego una oferta <br>
+        Y completo los datos del servicio<br>
+        Entonces debajo del precio se muestra el formulario de oferta. <br>
+        <br>
+        <b>Scenario:  Agencia no ingresa la información completa para crear la oferta</b> <br>
+        Dado que he validado mis credenciales,<br>
+        Y me encuentro en mi perfil <br>
+        Cuando agrego un servicio<br>
+        Y se muestra el formulario y no se ingresa data correctamente<br>
+        Entonces se muestran los errores de los datos ingresados. <br>
+        <br>
+    </td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US11</td>
+    <td>Editar página de negocio	</td>
+    <td>Como agencia deseo editar la página de mi negocio para colocar toda mi información y los medios de contacto.</td>
+    <td>
+        <b>Scenario: Agencia quiere editar su información e ingresa todos los campos obligatorios</b> <br>
+        Dado que la agencia cambia su información,<br>
+        Y quiere dar a conocer a sus clientes sobre estos nuevos cambios <br>
+        Cuando ingrese a la página de su negocio <br>
+        Y le da a “Editar información”<br>
+        Entonces la agencia podrá editar los distintos campos de datos que haya cambiado su negocio <br>
+        <br>
+        <b>Scenario:  Agencia quiere editar su información y no ingresa todos los campos obligatorios</b> <br>
+        Dado que la agencia ha dado click a editar información<br>
+        Cuando edite la información deseada<br>
+        Y le haya faltado ingresar algún valor de un campo obligatorio<br>
+        Entonces el sistema le muestra un foco de color rojo en la casilla donde falta ingresar información. <br>
+        <br>
+    </td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Monitorear clientes	</td>
+    <td>Como agencia deseo tener control del estado del servicio ofrecido a mis clientes para indicar cuando un servicio se ha cumplido satisfactoriamente.	.</td>
+    <td>
+        <b>Scenario:  Agencia posee clientes en estado de pendiente</b> <br>
+        Dado que la agencia se encuentra en su perfil ,<br>
+        Y accede a la sección de clientes  <br>
+        Cuando presione sobre el estado de pendiente de un cliente <br>
+        Y lo cambie por activo<br>
+        Entonces se mostrará que el servicio ha iniciado.<br>
+        <br>
+        <b>Scenario:  Agencia posee clientes en estado de activo</b> <br>
+        Dado que la agencia se encuentra en su perfil<br>
+        Y accede a la sección de clientes <br>
+        Cuando presione sobre el estado de activo de un cliente<br>
+        Y lo cambie por finalizado<br>
+        Entonces se mostrará que el servicio ha concluido. <br>
+        <br>
+    </td>
+    <td>EP04</td>
+  </tr>
+<tr>
+  <td>US17</td>
+  <td>Redirección a la aplicación	</td>
+  <td> Como usuario deseo que haya un call-to-action para poder entrar a la aplicación.</td>
+  <td>
+      <b>Scenario:  Usuario entra a la aplicación mediante un call-to-action</b> <br>
+      Dado que el usuario entra a la sección “What are you waiting for?”,<br>
+      Cuando llegue a la sección de “What are you waiting for?”,<br>
+      Entonces la página mostrará un call-to-action que redireccionará aplicación. <br>
+      <br>
+  </td>
+  <td>EP02</td>
+</tr>
+<tr>
+  <td>US18</td>
+  <td>Footer de la landing page</td>
+  <td> Como usuario deseo que haya un footer para poder ver las redes sociales y los contactos de la aplicación.</td>
+  <td>
+      <b>Scenario:  Usuario entra al footer de la landing page</b> <br>
+      Dado que el usuario llega al final de la página,<br>
+      Cuando llegue al footer de la página,<br>
+      Entonces la página mostrará una información de contacto y de redes sociales. <br>
+      <br>
+  </td>
+  <td>EP02</td>
+</tr>
+<tr>
+  <td>US19</td>
+  <td>About the product	</td>
+  <td> Como usuario deseo que haya un video acerca de la aplicación para poder ver las funcionalidades que tiene de una manera más visual.</td>
+  <td>
+      <b>Scenario: Usuario mira la aplicación en un video</b> <br>
+      Dado que el usuario entra a la sección “About the product”,<br>
+      Cuando llegue a la sección de “About the product”,<br>
+      Entonces la página mostrará un video acerca de las funcionalidades de la aplicación <br>
+      <br>
+  </td>
+  <td>EP02</td>
+</tr>
+<tr>
+  <td>US20</td>
+  <td>Responsive design	</td>
+  <td> Como usuario deseo que la aplicación sea responsiva para poder visualizar la landing page desde cualquier dispositivo</td>
+  <td>
+      <b>Scenario: Usuario entra a la landing page desde cualquier dispositivo</b> <br>
+      Dado que el usuario entra a la landing page,<br>
+      Cuando cargue la landing page,<br>
+      Entonces la página adecuará el contenido a la pantalla del dispositivo. <br>
+      <br>
+      <b>Scenario: Usuario entra a la landing page desde cualquier dispositivo</b> <br>
+      Dado que el usuario entra a la landing page,<br>
+      Cuando cargue la landing page,<br>
+      Entonces los elementos de la página no se muestran correctamente. <br>
+      <br>
+  </td>
+  <td>EP02</td>
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
+
+
+
+

@@ -32,23 +32,35 @@ De igual manera que en las secciones previas, definimos los canvases de los boun
 
 #### Context Mapping
 
+El diagrama de implementación se enfoca en la infraestructura subyacente que respalda nuestro sistema. Muestra cómo se despliegan nuestros contenedores y componentes en servidores, máquinas virtuales o en la nube, lo que ayuda a visualizar la configuración física de nuestra arquitectura.
+
 ![Context Mapping Image](../static/context-mapping.jpg)
 
 #### Software Architecture
 
+En nuestro proyecto, hemos utilizado el enfoque del modelo C4 para representar de manera efectiva la arquitectura de nuestro sistema. Cada uno de los siguientes diagramas desglosa diferentes aspectos de nuestro sistema, desde una vista de alto nivel hasta detalles de implementación. A continuación, presentamos una breve descripción de cada uno de ellos.
+
 ##### Software Architecture System Landscape Diagram
 
-![Software Architecture System Ladnscape Diagram](../static/software-architecture-system-landscape.png)
+Este diagrama proporciona una vista panorámica de nuestro sistema en su contexto más amplio. Muestra las relaciones de alto nivel entre los diferentes sistemas y componentes que forman parte de nuestra arquitectura, ayudando a comprender cómo se conecta nuestro sistema con otros sistemas externos y partes interesadas.
+
+![Software Architecture System Landscape Diagram](../static/software-architecture-system-landscape.png)
 
 ##### Software Architecture Context Level Diagrams
+
+Este diagrama se centra en nuestro sistema y sus interacciones con actores externos, como usuarios, sistemas externos u otras partes interesadas. Proporciona una visión general de alto nivel de las principales funcionalidades y componentes de nuestro sistema y cómo se relacionan con su entorno.
 
 ![Software Architecture Context Diagram](../static/software-architecture-system-context.png)
 
 ##### Software Architecture Container Level Diagrams
 
+En este diagrama, nos sumergimos un poco más en la arquitectura interna de nuestro sistema. Mostramos los principales contenedores y componentes que componen nuestro sistema, así como las relaciones y dependencias entre ellos. Este diagrama proporciona una comprensión detallada de cómo se estructura y organiza nuestro sistema.
+
 ![Software Architecture Container Diagram](../static/software-architecture-system-container-diagram.png)
 
 ##### Software Architecture Deployment Diagrams
+
+El diagrama de implementación se enfoca en la infraestructura subyacente que respalda nuestro sistema. Muestra cómo se despliegan nuestros contenedores y componentes en servidores, máquinas virtuales o en la nube, lo que ayuda a visualizar la configuración física de nuestra arquitectura.
 
 ![Software Architecture Deployment Diagram](../static/software-architecture-system-deployment-diagram.png)
 
@@ -88,11 +100,15 @@ En el contexto de "Account Management", este diseño se centra en la gestión de
 
 ###### Bounded Context Account Management Domain Layer Class Diagrams
 
-![ Bounded Context Account Management Domain Layer](../static/bounded-contexta-account-management-domain-layer.png)
+Este diagrama de clases representa el modelo de dominio para la gestión de cuentas de usuario y la seguridad en el contexto "Account Management". Incluye clases que abarcan usuarios, perfiles, roles, sesiones y otras entidades clave. Las relaciones entre estas clases reflejan la interacción entre los diversos componentes del sistema para garantizar una gestión eficiente y segura de las cuentas de usuario.
+
+![ Bounded Context Account Management Domain Layer](../static/class-diagram-bounded-context-1.png)
 
 ###### Bounded Context Account Management Database Design Diagram
 
-![ Bounded Context Database Design Diagram](../static/bounded-contexta-account-management-database-diagram.png)
+Este diagrama de base de datos proporciona una vista estructurada de cómo se almacenan los datos relacionados con la gestión de cuentas de usuario. Define las tablas, sus atributos y las relaciones entre ellas. Esto facilita el acceso y la administración de información crítica, como datos de usuario, perfiles, roles, sesiones en un entorno seguro y eficiente.
+
+![ Bounded Context Database Design Diagram](../static/database-diagram-bounded-1.png)
 
 #### Bounded Context Experience Design
 
