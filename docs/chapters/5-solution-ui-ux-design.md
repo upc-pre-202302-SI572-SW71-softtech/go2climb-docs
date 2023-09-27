@@ -374,6 +374,11 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
 
 ![Mobile Wireframes](../static/mb_wireframes.png)
 
+- Web application
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/241bb812-4df6-4361-a459-1c055372277f)
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/7aeaf939-222f-416b-928f-97ee0081febc)
+
+
 #### Applications Wireflow Diagrams
 
 - Mobile App
@@ -383,12 +388,23 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
   ![MB Wireflow 4](../static/mb_wireflow4.png)
   ![MB Wireflow 5](../static/mb_wireflow5.png)
 
+- Web application
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/818296b3-2941-423c-8b30-ee7f6c9494d5)
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/582287b6-8047-4bea-af1d-5d684951e42e)
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/540b1014-f287-4018-80ca-4cffc1ece9a6)
+
+
+
 #### Applications Mock-ups
 
 - Mobile App
 
 ![Mobile Mockups](../static/mb_mockups.png)
 
+- Web application
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/6edb7ed7-b8c4-4f39-bf88-2414bdaeba88)
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/cf183d0f-af20-4cb0-84d5-c78ba574948e)
+  
 #### Applications User Flow Diagrams
 
 - Mobile App
@@ -440,8 +456,24 @@ Obtiene información detallada de la ruta, incluyendo mapas, duración y dificul
 
 ![Mobile UfC](../static/mb_ufc.png)
 
+- Web application
+User goal: "como agencia quiero ver los dipositivos IoT que ofrece Go2Climb". Le damos click al icono Menu y enseguida clck a Devices IoT. De esta manera podremos ver todos los dipositivos IoT que ofrece la app.
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/b8032ce2-64e4-48ba-ad47-ee70f61e76d0)
+
+User goal: "como usuario quiero ver la lista de viajes  disponibles de una  agencia". Estemso donde estamos, le damos click a "Lista de agencias"; si estamos en la lista de agencias, le damos click a "Ver viajes". Al seguir todos estos pasos podremos los viajes especificos de cada agencia.
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/633c326d-b006-4e88-aad7-546b49550029)
+
+User Goal: "como usuario quiero ver la descripcion de un viaje". Estemso donde estemos le damos click a "Lista de viajes" y click a cualquier viaje. Otra manera de ver viajes es dando click a "Lista de agencias" y luego "Ver viajes", enseguida click a cualquier viaje.
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/03087767-4711-41fe-a1b8-fe1b49137bbf)
+
+
+
 ### Applications Prototyping
 
 - Mobile App
 
 ![Mobile Prototype](../static/mb_prototype.png)
+
+
+- Web application
+![image](https://github.com/upc-pre-202302-SI572-SW71-softtech/go2climb-docs/assets/89112834/8922a219-8070-4b9f-bb93-e7ee3aa77bb4)
