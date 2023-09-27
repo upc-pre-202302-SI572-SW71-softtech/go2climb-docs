@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7aeaf39-0a30-4991-9193-59ff358d27f9" name="Changes" comment="" />
+    <list default="true" id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="doc: landing page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapters/6-product-implementation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapters/6-product-implementation.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +19,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
-  <component name="ProjectId" id="2VyYNaYmpEvo93U4C6tv9ruotlR" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Vs6ubDPFfNE0fOpo02AOprfepj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,10 +35,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jack/Documents/GitHub/go2climb-docs/docs/static",
+    "git-widget-placeholder": "docs/chater/6-sprint",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/repositorios/github/go2climb-docs/docs/static",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "D:\\repositorios\\github\\go2climb-docs\\node_modules\\stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -41,25 +51,71 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/static" />
+      <recent name="D:\repositorios\github\go2climb-docs\docs\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/static" />
+      <recent name="D:\repositorios\github\go2climb-docs\docs\static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e7aeaf39-0a30-4991-9193-59ff358d27f9" name="Changes" comment="" />
-      <created>1695809749566</created>
+      <changelist id="dbdd38bb-1167-4694-9765-78d46f733532" name="Changes" comment="" />
+      <created>1695612665958</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695809749566</updated>
-      <workItem from="1695809751093" duration="3756000" />
+      <updated>1695612665958</updated>
+      <workItem from="1695612667239" duration="688000" />
+      <workItem from="1695613396168" duration="709000" />
+      <workItem from="1695671700999" duration="4563000" />
+      <workItem from="1695792954671" duration="2479000" />
+      <workItem from="1695813723602" duration="644000" />
     </task>
+    <task id="LOCAL-00001" summary="doc: general Style Guidelines">
+      <option name="closed" value="true" />
+      <created>1695673405208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695673405208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="doc: general Style Guidelines to searching systems">
+      <option name="closed" value="true" />
+      <created>1695675221964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695675221964</updated>
+    </task>
+    <task id="LOCAL-00003" summary="doc: landing page">
+      <option name="closed" value="true" />
+      <created>1695794545370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695794545370</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="doc: general Style Guidelines" />
+    <MESSAGE value="doc: general Style Guidelines to searching systems" />
+    <MESSAGE value="doc: landing page" />
+    <option name="LAST_COMMIT_MESSAGE" value="doc: landing page" />
   </component>
 </project>

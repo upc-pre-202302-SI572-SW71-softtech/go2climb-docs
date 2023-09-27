@@ -138,22 +138,28 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 ###### Development Evidence for Sprint Review.
 
-| Repository                                    | Branch | Commit id | Commit Message     | Commit Message body | Commit on (date) |
-|-----------------------------------------------|--------|-----------|--------------------|---------------------|------------------|
-| upc-pre-202302-SI572-SW71-softtech/LandinPage | main   | 497c0d3   | feat: landing page |                     | 27/09/23         |
-|                                               |        |           |                    |                     |                  |
+| Repository                                    | Branch  | Commit id | Commit Message | Commit Message body | Commit on (date) |
+|-----------------------------------------------|---------|-----------|----------------|---------------------|------------------|
+| upc-pre-202302-SI572-SW71-softtech/LandinPage | main    | 497c0d3   |                |                     | 27/09/23         |
+| upc-pre-202302-SI572-SW71-softtech/Frontend   | develop |           |                |                     | 27/09/23         |
 
 ###### Testing Suite Evidence for Sprint Review.
 
 No hubo testing en esta entrega.
 
 ###### Execution Evidence for Sprint Review.
-
+![](../static/fbb3a20a.png)
+![](../static/9d8c69fe.png)
+![](../static/74019a94.png)
+![](../static/f4b535a0.png)
+![](../static/d2a44e4b.png)
+![](../static/b51e9d7c.png)
 
 ###### Software Deployment Evidence for Sprint Review.
-![img.png](../static/deploy-landing.png)
-![img_1.png](img_1.png)
 
+![img.png](../static/deploy-landing.png)
+![](../static/e1d40a39.png)
+![](../static/fa19e8f2.png)
 
 ###### Team Collaboration Insights during Sprint.
 
