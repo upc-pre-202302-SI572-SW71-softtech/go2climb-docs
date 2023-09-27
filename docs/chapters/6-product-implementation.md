@@ -36,6 +36,13 @@ Android Studio:
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para la creación de aplicaciones Android. Proporciona todas las herramientas necesarias para diseñar, desarrollar y depurar aplicaciones Android de manera eficiente. Con Android Studio, los desarrolladores pueden aprovechar las ventajas de las bibliotecas de Android, el emulador de dispositivos y otras características específicas para crear aplicaciones Android de alta calidad. 
 
 ##### Source Code Management.
+
+Para el seguimiento de modificaciones y control de versiones utilizaremos GitHub. A continuación, presentamos los productos del proyecto y sus respectivos URLs.
+
+repositorio: https://github.com/upc-pre-202302-SI572-SW71-softtech
+
+Para estos repositorios anteriormente mencionados se trabajarán bajo la metodología de Git Flow ya que nos permite trabajar de la manera más rápida y óptima para el trabajo colaborativo.
+
 ##### Source Code Style Guide & Conventions.
 Estándares de Desarrollo y Tecnologías Adoptadas:
 
@@ -54,6 +61,16 @@ Convenciones de Idioma:
 Un aspecto crucial de nuestro enfoque es el uso de idiomas específicos para diferentes componentes del proyecto. En el ámbito de la programación y desarrollo, el idioma inglés se adopta como estándar, ya sea en la Landing Page, el front-end, el back-end o la aplicación móvil. Esto se extiende incluso a los títulos y descripciones de nuestros commits en nuestro control de versiones.
 
 ##### Software Deployment Configuration.
+
+Producto	URL de despliegue
+Parkify Frontend  No disponible en este Sprint	
+
+Parkify Mobile app	No disponible en este Sprint
+
+Parkify Backend	 No disponible en este Sprint
+
+Parkify Landing Page  https://github.com/upc-pre-202302-SI572-SW71-softtech/LandinPage
+
 
 ##### Landing Page, Services & Applications Implementation.
 ##### Sprint 1
