@@ -32,19 +32,19 @@ la aventura y la conexión en lugares remotos de manera efectiva y atractiva.
 
 La elección de la tipografía es un aspecto importante en la identidad de marca de Go2Climb. Nuestra marca utiliza dos
 fuentes principales: una sans serif y Arial.
-- Sans Serif (Fuente Principal): La tipografía sans serif es conocida por su
-simplicidad y legibilidad. Representa la esencia minimalista y moderna de Go2Climb. Esta fuente se utiliza en nuestro
-logotipo y en los encabezados de nuestros materiales de marketing. Proporciona un aspecto limpio y contemporáneo que
-complementa la simplicidad de nuestra paleta de colores y el diseño general de nuestra marca.
 
+- Sans Serif (Fuente Principal): La tipografía sans serif es conocida por su
+  simplicidad y legibilidad. Representa la esencia minimalista y moderna de Go2Climb. Esta fuente se utiliza en nuestro
+  logotipo y en los encabezados de nuestros materiales de marketing. Proporciona un aspecto limpio y contemporáneo que
+  complementa la simplicidad de nuestra paleta de colores y el diseño general de nuestra marca.
 
 - Arial (Fuente Secundaria): Arial es una fuente versátil y legible que se utiliza para el contenido principal en nuestros
-materiales de comunicación. Su simplicidad y claridad aseguran que la información que compartimos sea fácilmente
-comprensible por nuestros usuarios y refuerza la idea de que Go2Climb ofrece soluciones accesibles y confiables.
-La combinación de estas dos fuentes, sans serif para el énfasis en el diseño y la identidad, y Arial para la claridad en
-la comunicación, crea una armonía en la tipografía de Go2Climb que refuerza nuestra imagen de marca de simplicidad,
-seguridad y modernidad. Esta elección tipográfica se alinea con nuestra filosofía de ofrecer soluciones tecnológicas de
-vanguardia de manera accesible y fácil de entender.
+  materiales de comunicación. Su simplicidad y claridad aseguran que la información que compartimos sea fácilmente
+  comprensible por nuestros usuarios y refuerza la idea de que Go2Climb ofrece soluciones accesibles y confiables.
+  La combinación de estas dos fuentes, sans serif para el énfasis en el diseño y la identidad, y Arial para la claridad en
+  la comunicación, crea una armonía en la tipografía de Go2Climb que refuerza nuestra imagen de marca de simplicidad,
+  seguridad y modernidad. Esta elección tipográfica se alinea con nuestra filosofía de ofrecer soluciones tecnológicas de
+  vanguardia de manera accesible y fácil de entender.
 
 ##### Colors
 
@@ -52,16 +52,16 @@ La paleta de Go2Climb están diseñados para transmitir simplicidad, elegancia y
 principales y sus códigos en formato hexadecimal:
 
 - Blanco: El color blanco (#FFFFFF) simboliza la pureza, la claridad y la seguridad. Es el color predominante en nuestro
-diseño y representa la esencia de Go2Climb: la búsqueda de experiencias al aire libre sin preocupaciones.
+  diseño y representa la esencia de Go2Climb: la búsqueda de experiencias al aire libre sin preocupaciones.
 
 - Negro: El negro (#1E1E1E) añade un toque de misterio y elegancia a nuestra marca. Representa la aventura en entornos
-nocturnos y desafiantes, subrayando la resistencia y la determinación.
+  nocturnos y desafiantes, subrayando la resistencia y la determinación.
 
 - Gris Claro: Un tono de gris claro (#E6E6E6) se utiliza para acentuar y agregar profundidad a nuestro diseño. Refleja la
-adaptabilidad y la neutralidad de Go2Climb en diferentes contextos.
+  adaptabilidad y la neutralidad de Go2Climb en diferentes contextos.
 
 - Gris Oscuro: Un gris más oscuro (#B3B3B3) proporciona contraste y resalta elementos clave de nuestro diseño. Evoca la
-solidez y la confianza que ofrecemos a nuestros usuarios en sus aventuras.
+  solidez y la confianza que ofrecemos a nuestros usuarios en sus aventuras.
 
 ![brand-color](./../static/brand-color-go2climb.png)
 
@@ -102,8 +102,8 @@ encontrar todo lo que necesitan sin esfuerzo, mejorando así la experiencia del 
 
    - Agrupación de Contenido:
 
-       - Detalles sobre cómo se agruparán los elementos relacionados.
-         - Ejemplos de cómo se organizarán las secciones y páginas.
+     - Detalles sobre cómo se agruparán los elementos relacionados.
+       - Ejemplos de cómo se organizarán las secciones y páginas.
 
 2. **Sustento de Decisiones**
 
@@ -142,8 +142,8 @@ encontrar todo lo que necesitan sin esfuerzo, mejorando así la experiencia del 
 
    - Facilitación de la Búsqueda y Navegación:
 
-       - Medidas tomadas para asegurar que los usuarios encuentren fácilmente lo que están buscando.
-       - Estrategias para hacer que la experiencia sea fluida y eficiente.
+     - Medidas tomadas para asegurar que los usuarios encuentren fácilmente lo que están buscando.
+     - Estrategias para hacer que la experiencia sea fluida y eficiente.
 
 7. **Actualización y Mantenimiento**
 
@@ -198,7 +198,6 @@ esquemas de categorización (alfabético, cronológico, por tópicos, según aud
      - Casos en los que se organizará el contenido según grupos específicos de usuarios.
      - Ejemplos de cómo se adaptará la información para diferentes audiencias.
 
-
 #### Labeling Systems
 
 En esta sección se detallan las decisiones sobre cómo se etiquetarán y representarán los datos en la plataforma
@@ -209,36 +208,36 @@ ellos.
 1. Etiquetas Claras y Concisas
 
 - Principio de Simplicidad: Se establece la importancia de utilizar etiquetas claras y concisas que sean fácilmente
-comprensibles para los usuarios, evitando jerga técnica o confusa.
+  comprensibles para los usuarios, evitando jerga técnica o confusa.
 
 - Minimizar el Uso de Palabras: Se enfatiza la importancia de utilizar el menor número de palabras posible en las
-etiquetas, manteniendo la brevedad y la eficacia comunicativa.
+  etiquetas, manteniendo la brevedad y la eficacia comunicativa.
 
 2. Etiquetas para Conjuntos de Información
 
 - Etiquetas para Categorías: Se detallan las etiquetas que se utilizarán para representar las categorías principales de
-información en la plataforma, como "Rutas de Senderismo," "Alpinismo," "Noticias," etc.
+  información en la plataforma, como "Rutas de Senderismo," "Alpinismo," "Noticias," etc.
 
 - Etiquetas para Funcionalidades: Se especifican las etiquetas para representar las funciones o características de la
-plataforma, como "Buscar," "Explorar," "Perfil," etc.
+  plataforma, como "Buscar," "Explorar," "Perfil," etc.
 
 3. Asociaciones entre Etiquetas
 
 - Navegación y Organización: Se explican las asociaciones entre etiquetas y cómo estas se relacionan con la navegación
-y la organización del contenido en la plataforma.
+  y la organización del contenido en la plataforma.
 
 - Etiquetas Relacionadas: Si existen etiquetas relacionadas o etiquetas secundarias que complementen las principales,
-se describen y se explican su uso.
+  se describen y se explican su uso.
 
 4. Ejemplos Prácticos
 
 - Proporciona ejemplos concretos de cómo se aplicarán las etiquetas en la plataforma. Puedes utilizar capturas de pantalla
-o diagramas para ilustrar su uso.
+  o diagramas para ilustrar su uso.
 
 5. Consideraciones de Usabilidad
 
 - Destaca la importancia de la usabilidad en la elección de etiquetas. Señala cómo estas etiquetas ayudarán a los usuarios
-a comprender la estructura de la plataforma y a encontrar la información que necesitan de manera eficiente.
+  a comprender la estructura de la plataforma y a encontrar la información que necesitan de manera eficiente.
 
 #### SEO Tags and Meta Tags
 
@@ -249,38 +248,36 @@ como Title, Meta Tags Description, Keywords, Author y elementos ASO (App Store O
 1. Etiquetas SEO para el Sitio Web
 
    - Title (Título): Especifica el título que se utilizará en las páginas principales del sitio web estático, como la
-   Landing Page. Asegúrate de que sea descriptivo y relevante para el contenido de la página.
+     Landing Page. Asegúrate de que sea descriptivo y relevante para el contenido de la página.
 
    - Meta Tags Description (Descripción): Proporciona una descripción breve y concisa de cada página del sitio web, que se
-   mostrará en los resultados de búsqueda. Asegúrate de que cada descripción sea única y refleje el contenido de la página.
-![seo-tags](../static/seo-tags.png)
+     mostrará en los resultados de búsqueda. Asegúrate de que cada descripción sea única y refleje el contenido de la página.
+     ![seo-tags](../static/seo-tags.png)
 
 2. Etiquetas SEO para la Web Application
 
    - Title (Título): Describe el título que se utilizará en las páginas principales de la Web Application. Al igual que en
-   el sitio web estático, asegúrate de que sea relevante y atractivo.
+     el sitio web estático, asegúrate de que sea relevante y atractivo.
 
    - Meta Tags Description (Descripción): Proporciona descripciones breves y específicas para cada página o sección de la
-   Web Application.
+     Web Application.
 
    - Keywords (Palabras Clave): Identifica las palabras clave relevantes para cada página o funcionalidad de la Web
-   Application.
+     Application.
 
 3. ASO Elements para Aplicaciones Móviles (App Store Optimization)
 
    - App Title (Título de la Aplicación): Especifica el título de la aplicación móvil que se mostrará en tiendas de
-   aplicaciones.
+     aplicaciones.
 
    - App Keywords (Palabras Clave de la Aplicación): Identifica las palabras clave que ayudarán a los usuarios a encontrar
-   la aplicación en tiendas de aplicaciones.
+     la aplicación en tiendas de aplicaciones.
 
    - App Subtitle (Subtítulo de la Aplicación): Proporciona un subtítulo descriptivo que resalte las características clave
-   de la aplicación.
+     de la aplicación.
 
    - App Description (Descripción de la Aplicación): Ofrece una descripción completa y atractiva de la aplicación,
-   destacando sus beneficios y características únicas.
-
-
+     destacando sus beneficios y características únicas.
 
 #### Searching Systems
 
@@ -305,7 +302,6 @@ En esta sección, explicamos las medidas que se implementarán para ayudar a los
 - Después de realizar una búsqueda, los datos se presentarán en una lista ordenada por relevancia. Cada resultado incluirá información esencial, como título, descripción breve y ubicación, para que los usuarios puedan evaluar rápidamente si es lo que están buscando.
 
 - Nuestro objetivo es facilitar la búsqueda de información y garantizar que los usuarios encuentren contenido relevante de manera eficiente en nuestro producto digital.
-
 
 #### Navigation Systems
 
@@ -340,13 +336,13 @@ Para lograrlo, se utilizarán métodos de navegación intuitivos y eficientes, t
 - Sugerencias Contextuales: Se proporcionarán sugerencias contextuales basadas en el comportamiento del usuario y sus
   preferencias, lo que facilitará la exploración y el descubrimiento de contenido relacionado.
 
-
 ![call to action navbar](../static/call-to-action-nav.png)
 El boton de "registrarme" redirige al usuario a la pagina de Iniciar sesion de la aplicacion web.
 ![call to action hero](../static/call-to-action-hero.png)
 El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplicacion web.
 
 ### Landing Page Design
+
 ![hero](../static/hero.png)
 ![landing 2](../static/landing-2.png)
 ![landing 3](../static/landing-3.png)
@@ -360,6 +356,7 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
 ![landing wireframe](../static/landing-wireframe.png)
 
 #### Landing Page Mock-up
+
 ![hero](../static/hero.png)
 ![landing 2](../static/landing-2.png)
 ![landing 3](../static/landing-3.png)
@@ -372,33 +369,41 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
 ### Applications UX/UI Design
 
 #### Applications Wireframes
+
 - Mobile App
-<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="300">
+
+![Mobile Wireframes](../static/mb_wireframes.png)
 
 #### Applications Wireflow Diagrams
+
 - Mobile App
-<img src="../static/mb_wireflow1.png" title="" alt="mobile_1" width="300">
-<img src="../static/Screenshot_1562.png" title="" alt="mobile_2" width="300">
-<img src="../static/mb_wireflow3.png" title="" alt="mobile_3" width="300">
-<img src="../static/mb_wireflow4.png" title="" alt="mobile_4" width="300">
-<img src="../static/mb_wireflow5.png" title="" alt="mobile_5" width="300">
+  ![MB Wireflow 1](../static/mb_wireflow1.png)
+  ![MB Wireflow 2](../static/Screenshot_1562.png)
+  ![MB Wireflow 3](../static/mb_wireflow3.png)
+  ![MB Wireflow 4](../static/mb_wireflow4.png)
+  ![MB Wireflow 5](../static/mb_wireflow5.png)
 
 #### Applications Mock-ups
+
 - Mobile App
-<img src="../static/mb_mockups.png" title="" alt="mobile_mock" width="300">
+
+![Mobile Mockups](../static/mb_mockups.png)
 
 #### Applications User Flow Diagrams
+
 - Mobile App
-User Goal: Registrarse en la aplicación para acceder a las funciones personalizadas.
-Happy Path:
-El usuario abre la aplicación.
-Selecciona la opción de registro.
-Ingresa su nombre, correo electrónico y contraseña.
-Confirma la contraseña.
-Hace clic en el botón de registro.
-Recibe una confirmación de registro exitoso.
-<img src="../static/mb_uf1.png" title="" alt="mobile_11" width="300">
-Vista de Clima de Montañas:
+  User Goal: Registrarse en la aplicación para acceder a las funciones personalizadas.
+  Happy Path:
+  El usuario abre la aplicación.
+  Selecciona la opción de registro.
+  Ingresa su nombre, correo electrónico y contraseña.
+  Confirma la contraseña.
+  Hace clic en el botón de registro.
+  Recibe una confirmación de registro exitoso.
+
+  ![Mobile uf1](../static/mb_uf1.png)
+
+  Vista de Clima de Montañas:
 
 User Goal: Ver el pronóstico del clima para diferentes montañas.
 Happy Path:
@@ -406,7 +411,9 @@ El usuario abre la aplicación.
 Navega a la vista de "Clima de Montañas".
 Selecciona una montaña de la lista.
 Obtiene información detallada sobre el clima actual y pronóstico para esa montaña.
-<img src="../static/mb_uf2.png" title="" alt="mobile_22" width="300">
+
+![Mobile UF2](../static/mb_uf2.png)
+
 Vista de Salud (Alerta de Ayuda en la Montaña):
 
 User Goal: Enviar una alerta de ayuda en caso de perderse en la montaña.
@@ -416,7 +423,9 @@ Navega a la vista de "Salud".
 Selecciona la opción de enviar una alerta de ayuda.
 Confirma la solicitud de ayuda.
 La aplicación registra la ubicación del usuario y notifica a los servicios de rescate.
-<img src="../static/mb_uf3.png" title="" alt="mobile_33" width="300">
+
+![mb uf3](../static/mb_uf3.png)
+
 Vista de Rutas:
 
 User Goal: Ver las rutas disponibles para hacer senderismo o escalada.
@@ -426,10 +435,13 @@ Navega a la vista de "Rutas".
 Explora las diferentes opciones de rutas.
 Selecciona una ruta específica.
 Obtiene información detallada de la ruta, incluyendo mapas, duración y dificultad.
-<img src="../static/mb_uf4.png" title="" alt="mobile_44" width="300">
-<img src="../static/mb_ufc.png" title="" alt="mobile_55" width="300">
+
+![Mobile Uf4](../static/mb_uf4.png)
+
+![Mobile UfC](../static/mb_ufc.png)
 
 ### Applications Prototyping
 
 - Mobile App
-<img src="../static/mb_prototype.png" title="" alt="mobile_pro" width="300">
+
+![Mobile Prototype](../static/mb_prototype.png)
