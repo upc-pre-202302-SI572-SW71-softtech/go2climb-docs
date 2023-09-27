@@ -372,25 +372,30 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
 ### Applications UX/UI Design
 
 #### Applications Wireframes
-
-<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="224">
+- Mobile App
+<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="300">
 
 #### Applications Wireflow Diagrams
-
-<img src="../static/mb_wireflow1.png" title="" alt="mobile_1" width="224">
-<img src="../static/Screenshot_1562.png" title="" alt="mobile_2" width="224">
-<img src="../static/mb_wireflow3.png" title="" alt="mobile_3" width="224">
-<img src="../static/mb_wireflow4.png" title="" alt="mobile_4" width="224">
-<img src="../static/mb_wireflow5.png" title="" alt="mobile_5" width="224">
+- Mobile App
+<img src="../static/mb_wireflow1.png" title="" alt="mobile_1" width="300">
+<img src="../static/Screenshot_1562.png" title="" alt="mobile_2" width="300">
+<img src="../static/mb_wireflow3.png" title="" alt="mobile_3" width="300">
+<img src="../static/mb_wireflow4.png" title="" alt="mobile_4" width="300">
+<img src="../static/mb_wireflow5.png" title="" alt="mobile_5" width="300">
 
 #### Applications Mock-ups
-
-<img src="../static/mb_mockups.png" title="" alt="mobile_mock" width="224">
+- Mobile App
+<img src="../static/mb_mockups.png" title="" alt="mobile_mock" width="300">
 
 #### Applications User Flow Diagrams
-
-<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="224">
+- Mobile App
+<img src="../static/mb_uf1.png" title="" alt="mobile_11" width="300">
+<img src="../static/mb_uf2.png" title="" alt="mobile_22" width="300">
+<img src="../static/mb_uf3.png" title="" alt="mobile_33" width="300">
+<img src="../static/mb_uf4.png" title="" alt="mobile_44" width="300">
+<img src="../static/mb_ufc.png" title="" alt="mobile_55" width="300">
 
 ### Applications Prototyping
 
-<img src="../static/mb_prototype.png" title="" alt="mobile_pro" width="224">
+- Mobile App
+<img src="../static/mb_prototype.png" title="" alt="mobile_pro" width="300">
