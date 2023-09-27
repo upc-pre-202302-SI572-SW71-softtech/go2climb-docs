@@ -1,6 +1,6 @@
-##### Software Configuration Management.
-##### Software Development Environment Configuration.
+##### Software Configuration Management
 
+##### Software Development Environment Configuration
 
 1. Landing Page:
 
@@ -24,7 +24,7 @@ Pruebas Automatizadas: Configuramos Jasmine y Karma para realizar pruebas unitar
 Control de Versiones: Git y GitHub se utilizan para mantener un control preciso de versiones y colaborar de manera efectiva.
 
 GitHub:
-GitHub es una plataforma de alojamiento de repositorios que actúa como un espacio comunitario para almacenar y gestionar el progreso de proyectos colaborativos desarrollados por equipos. Su función principal es proporcionar un lugar centralizado donde los miembros del equipo pueden contribuir, seguir cambios y mantener un historial de versiones de su trabajo. 
+GitHub es una plataforma de alojamiento de repositorios que actúa como un espacio comunitario para almacenar y gestionar el progreso de proyectos colaborativos desarrollados por equipos. Su función principal es proporcionar un lugar centralizado donde los miembros del equipo pueden contribuir, seguir cambios y mantener un historial de versiones de su trabajo.
 
 WebStorm:
 WebStorm es un entorno de desarrollo de JetBrains diseñado específicamente para el desarrollo web en JavaScript. Facilita la creación y prueba de aplicaciones web al ofrecer herramientas avanzadas para trabajar con lenguajes como HTML, CSS y JavaScript. Además, permite la visualización instantánea de los cambios en el navegador, lo que agiliza el proceso de desarrollo.
@@ -33,10 +33,12 @@ Visual Studio Code:
 Visual Studio Code es un editor de código altamente configurable y potente que ofrece una amplia gama de extensiones para personalizar y mejorar la eficiencia del desarrollador. Además de ser un excelente editor de código, también se puede utilizar para construir el backend de nuestras aplicaciones web. Su flexibilidad y comunidad de desarrolladores activa lo convierten en una herramienta valiosa para proyectos de desarrollo.
 
 Android Studio:
-Android Studio es el entorno de desarrollo integrado (IDE) oficial para la creación de aplicaciones Android. Proporciona todas las herramientas necesarias para diseñar, desarrollar y depurar aplicaciones Android de manera eficiente. Con Android Studio, los desarrolladores pueden aprovechar las ventajas de las bibliotecas de Android, el emulador de dispositivos y otras características específicas para crear aplicaciones Android de alta calidad. 
+Android Studio es el entorno de desarrollo integrado (IDE) oficial para la creación de aplicaciones Android. Proporciona todas las herramientas necesarias para diseñar, desarrollar y depurar aplicaciones Android de manera eficiente. Con Android Studio, los desarrolladores pueden aprovechar las ventajas de las bibliotecas de Android, el emulador de dispositivos y otras características específicas para crear aplicaciones Android de alta calidad.
 
-##### Source Code Management.
-##### Source Code Style Guide & Conventions.
+##### Source Code Management
+
+##### Source Code Style Guide & Conventions
+
 Estándares de Desarrollo y Tecnologías Adoptadas:
 
 En la ejecución de nuestro proyecto, hemos abrazado la adopción de estándares de codificación y convenciones internacionales en una variedad de tecnologías. Esta iniciativa tiene como objetivo principal lograr un proceso de desarrollo altamente estandarizado y de fácil comprensión para todos los miembros del equipo.
@@ -47,23 +49,32 @@ Hemos optado por utilizar tecnologías consolidadas, tal como se menciona en nue
 
 Herramientas de Desarrollo:
 
-Nuestra elección de herramientas también coincide con lo que se describe en nuestra configuración del entorno de desarrollo, abarcando herramientas como LucitChart, Figma, Vertabelo, y más. Estas herramientas son esenciales para diversas tareas, desde la representación gráfica de datos hasta el diseño de interfaces de usuario y la gestión de bases de datos.
+Nuestra elección de herramientas también coincide con lo que se describe en nuestra configuración del entorno de desarrollo, abarcando herramientas como LucidChart, Figma, Vertabelo, y más. Estas herramientas son esenciales para diversas tareas, desde la representación gráfica de datos hasta el diseño de interfaces de usuario y la gestión de bases de datos.
 
 Convenciones de Idioma:
 
 Un aspecto crucial de nuestro enfoque es el uso de idiomas específicos para diferentes componentes del proyecto. En el ámbito de la programación y desarrollo, el idioma inglés se adopta como estándar, ya sea en la Landing Page, el front-end, el back-end o la aplicación móvil. Esto se extiende incluso a los títulos y descripciones de nuestros commits en nuestro control de versiones.
 
-##### Software Deployment Configuration.
+##### Software Deployment Configuration
 
-##### Landing Page, Services & Applications Implementation.
+##### Landing Page, Services & Applications Implementation
+
 ##### Sprint 1
- En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el presente sprint.
-##### Sprint Planning 1.
 
-##### Sprint Backlog 1.
-##### Development Evidence for Sprint Review.
-##### Testing Suite Evidence for Sprint Review.
-##### Execution Evidence for Sprint Review.
-##### Services Documentation Evidence for Sprint Review.
-##### Software Deployment Evidence for Sprint Review.
-##### Team Collaboration Insights during Sprint.
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el presente sprint.
+
+##### Sprint Planning 1
+
+##### Sprint Backlog 1
+
+##### Development Evidence for Sprint Review
+
+##### Testing Suite Evidence for Sprint Review
+
+##### Execution Evidence for Sprint Review
+
+##### Services Documentation Evidence for Sprint Review
+
+##### Software Deployment Evidence for Sprint Review
+
+##### Team Collaboration Insights during Sprint
