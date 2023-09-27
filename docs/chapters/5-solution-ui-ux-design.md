@@ -366,10 +366,24 @@ Para lograrlo, se utilizarán métodos de navegación intuitivos y eficientes, t
 
 #### Applications Wireframes
 
+<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="224">
+
 #### Applications Wireflow Diagrams
+
+<img src="../static/mb_wireflow1.png" title="" alt="mobile_1" width="224">
+<img src="../static/Screenshot_1562.png" title="" alt="mobile_2" width="224">
+<img src="../static/mb_wireflow3.png" title="" alt="mobile_3" width="224">
+<img src="../static/mb_wireflow4.png" title="" alt="mobile_4" width="224">
+<img src="../static/mb_wireflow5.png" title="" alt="mobile_5" width="224">
 
 #### Applications Mock-ups
 
+<img src="../static/mb_mockups.png" title="" alt="mobile_mock" width="224">
+
 #### Applications User Flow Diagrams
 
+<img src="../static/mb_wireframes.png" title="" alt="mobile_wireframe" width="224">
+
 ### Applications Prototyping
+
+<img src="../static/mb_prototype.png" title="" alt="mobile_pro" width="224">
