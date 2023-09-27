@@ -1,8 +1,6 @@
-
 ### Software Configuration Management
 
 #### Software Development Environment Configuration
-
 
 1. Landing Page:
 
@@ -38,7 +36,6 @@ efectiva.
 GitHub:
 
 GitHub es una plataforma de alojamiento de repositorios que actúa como un espacio comunitario para almacenar y gestionar el progreso de proyectos colaborativos desarrollados por equipos. Su función principal es proporcionar un lugar centralizado donde los miembros del equipo pueden contribuir, seguir cambios y mantener un historial de versiones de su trabajo.
-
 
 WebStorm:
 WebStorm es un entorno de desarrollo de JetBrains diseñado específicamente para el desarrollo web en JavaScript.
@@ -82,9 +79,7 @@ nuestra aplicación móvil, Android Studio se erige como el punto de partida, ha
 
 Herramientas de Desarrollo:
 
-
 Nuestra elección de herramientas también coincide con lo que se describe en nuestra configuración del entorno de desarrollo, abarcando herramientas como LucidChart, Figma, Vertabelo, y más. Estas herramientas son esenciales para diversas tareas, desde la representación gráfica de datos hasta el diseño de interfaces de usuario y la gestión de bases de datos.
-
 
 Convenciones de Idioma:
 
@@ -131,22 +126,21 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 ##### Registro de Entrevistas
 
-
-##### Landing Page, Services & Applications Implementation.
+##### Landing Page, Services & Applications Implementation
 
 ##### Sprint 1
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el presente sprint.
 
-##### Sprint Planning 1.
+##### Sprint Planning 1
 
 | sprint #                           | 1                                                                                                                                                                                                                   |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | sprint planning background         | Initial setup                                                                                                                                                                                                       |
 | date                               | 2023-10-05                                                                                                                                                                                                          |
 | time                               | 10:00 AM                                                                                                                                                                                                            |
 | location                           | Office                                                                                                                                                                                                              |
-| prepare by                         | Jose Cayallua                                                                                                                                                                                                       |
+| prepare by                         | Jose Cayllahua                                                                                                                                                                                                      |
 | Attendees (to planning meeting)    | Team Members                                                                                                                                                                                                        |
 | Sprint n – 1 Review Summary        |                                                                                                                                                                                                                     |
 | Sprint n – 1 Retrospective Summary |                                                                                                                                                                                                                     |
@@ -155,16 +149,16 @@ En esta sección se registra y explica el avance en términos de producto y trab
 | Sprint n Velocity                  | 8                                                                                                                                                                                                                   |
 | Sum of Story Points                | 16                                                                                                                                                                                                                  |
 
-###### Sprint Backlog 1.
+###### Sprint Backlog 1
 
-| sprint # | 1 |
-|----------|---|
+| sprint # | 1   |
+| -------- | --- |
 
 | User Story | Task |
-|------------|------|
+| ---------- | ---- |
 
 | Id US | Title US                           | Id Task | Description Task                                          | Estimate(Hrs) | Assigned to | Status     |
-|-------|------------------------------------|---------|-----------------------------------------------------------|---------------|-------------|------------|
+| ----- | ---------------------------------- | ------- | --------------------------------------------------------- | ------------- | ----------- | ---------- |
 | US-01 | Desarrollar la landing page        | T-01    | Diseñar la estructura de la página de destino             | 4hr           | Jack        | Completado |
 |       |                                    | T-02    | Crear el diseño visual de la landing page                 | 6hr           | Jack        | Completado |
 |       |                                    | T-03    | Implementar formulario de contacto                        | 8hr           | Jack        | Completado |
@@ -177,32 +171,32 @@ En esta sección se registra y explica el avance en términos de producto y trab
 | US-05 | Visualizar agencias                | T-10    | Diseñar la interfaz de visualización de agencias          | 3hr           | Jack        | Completado |
 |       |                                    | T-11    | Implementar funcionalidad de visualización de agencias    | 5hr           | Jack        | Completado |
 
-###### Development Evidence for Sprint Review.
+###### Development Evidence for Sprint Review
 
 | Repository                                    | Branch  | Commit id | Commit Message | Commit Message body | Commit on (date) |
-|-----------------------------------------------|---------|-----------|----------------|---------------------|------------------|
+| --------------------------------------------- | ------- | --------- | -------------- | ------------------- | ---------------- |
 | upc-pre-202302-SI572-SW71-softtech/LandinPage | main    | 497c0d3   |                |                     | 27/09/23         |
 | upc-pre-202302-SI572-SW71-softtech/Frontend   | develop |           |                |                     | 27/09/23         |
 
-###### Testing Suite Evidence for Sprint Review.
+###### Testing Suite Evidence for Sprint Review
 
 No hubo testing en esta entrega.
 
-###### Execution Evidence for Sprint Review.
-![](../static/fbb3a20a.png)
-![](../static/9d8c69fe.png)
-![](../static/74019a94.png)
-![](../static/f4b535a0.png)
-![](../static/d2a44e4b.png)
-![](../static/b51e9d7c.png)
+###### Execution Evidence for Sprint Review
 
-###### Software Deployment Evidence for Sprint Review.
+![s1](../static/fbb3a20a.png)
+![s2](../static/9d8c69fe.png)
+![s3](../static/74019a94.png)
+![s4](../static/f4b535a0.png)
+![s5](../static/d2a44e4b.png)
+![s6](../static/b51e9d7c.png)
+
+###### Software Deployment Evidence for Sprint Review
 
 ![img.png](../static/deploy-landing.png)
-![](../static/e1d40a39.png)
-![](../static/fa19e8f2.png)
+![deployment](../static/e1d40a39.png)
+![deployment](../static/fa19e8f2.png)
 
-###### Team Collaboration Insights during Sprint.
+###### Team Collaboration Insights during Sprint
 
-![img.png](img.png)
-
+![img.png](../static/img.png)
