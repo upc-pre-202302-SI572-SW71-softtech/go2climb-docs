@@ -389,9 +389,43 @@ El bonton de "Concer mas" redirige al usuario a la pagina de inicio de la aplica
 
 #### Applications User Flow Diagrams
 - Mobile App
+User Goal: Registrarse en la aplicación para acceder a las funciones personalizadas.
+Happy Path:
+El usuario abre la aplicación.
+Selecciona la opción de registro.
+Ingresa su nombre, correo electrónico y contraseña.
+Confirma la contraseña.
+Hace clic en el botón de registro.
+Recibe una confirmación de registro exitoso.
 <img src="../static/mb_uf1.png" title="" alt="mobile_11" width="300">
+Vista de Clima de Montañas:
+
+User Goal: Ver el pronóstico del clima para diferentes montañas.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Clima de Montañas".
+Selecciona una montaña de la lista.
+Obtiene información detallada sobre el clima actual y pronóstico para esa montaña.
 <img src="../static/mb_uf2.png" title="" alt="mobile_22" width="300">
+Vista de Salud (Alerta de Ayuda en la Montaña):
+
+User Goal: Enviar una alerta de ayuda en caso de perderse en la montaña.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Salud".
+Selecciona la opción de enviar una alerta de ayuda.
+Confirma la solicitud de ayuda.
+La aplicación registra la ubicación del usuario y notifica a los servicios de rescate.
 <img src="../static/mb_uf3.png" title="" alt="mobile_33" width="300">
+Vista de Rutas:
+
+User Goal: Ver las rutas disponibles para hacer senderismo o escalada.
+Happy Path:
+El usuario abre la aplicación.
+Navega a la vista de "Rutas".
+Explora las diferentes opciones de rutas.
+Selecciona una ruta específica.
+Obtiene información detallada de la ruta, incluyendo mapas, duración y dificultad.
 <img src="../static/mb_uf4.png" title="" alt="mobile_44" width="300">
 <img src="../static/mb_ufc.png" title="" alt="mobile_55" width="300">
 
