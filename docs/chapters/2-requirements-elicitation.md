@@ -122,16 +122,35 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 
 ##### Entrevista N°1
 
-![Entrevista Tourista 1](../static/interview-tourist-1.png)
+![Entrevista Tourist 1](../static/interview-sebastian-tourist.jpeg)
 
 <!--Change data for each person-->
 
-- Nombre: Leonard
-- Edad: 67 años
-- Residencia: Mozambique
+- Nombre: Sebastián Andre Ramírez Mendez
+- Edad: 21 años
+- Residencia: La Victoria
 - Segmento Objetivo: Turista
-- Enlace de entrevista: <InterviewLink>.
-- Resumen: Nulla cillum duis esse et consequat nisi in sint cupidatat incididunt elit proident in minim. Non adipisicing minim consectetur sint cupidatat laboris incididunt tempor culpa. Nisi culpa Lorem sunt nostrud in duis reprehenderit do sunt laborum qui.
+- Enlace de entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019558_upc_edu_pe/EQDSsRoZXKdLnU-CJaI48tgBhFsyfjmsRPfc0RNNViLXjA?e=f0a72b>.
+- Timing: 00:00
+- Duración: 06:25 minutos
+- Resumen: Sebastián, un aventurero amante de los deportes extremos, compartió su deseo de utilizar tecnología avanzada para mejorar su seguridad y experiencia mientras realiza actividades alpinas. Busca dispositivos y herramientas que le proporcionen datos en tiempo real sobre su ubicación y salud, así como alertas de seguridad. Además, destacó la importancia de mantenerse conectado durante sus aventuras.
+
+##### Entrevista N°2
+
+![Entrevista Tourist 2](../static/interview-tourist-2.jpeg)
+
+<!--Change data for each person-->
+
+- Nombre: Nilda Sharol Flores Ramirez
+- Edad: 23 años
+- Residencia: Mozambique
+- Segmento Objetivo: La Breña
+- Enlace de entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019558_upc_edu_pe/EQDSsRoZXKdLnU-CJaI48tgBhFsyfjmsRPfc0RNNViLXjA?e=f0a72b>.
+- Timing: 06:26
+- Duración: 04:25 minutos
+- Resumen: Durante la conversación con Nilda, una entusiasta de actividades al aire libre, se resaltó su necesidad de encontrar y reservar servicios de alpinismo de manera sencilla y segura. Valoró la conveniencia de tener acceso a información detallada sobre las rutas y el clima antes de comprometerse con una actividad. María también mencionó que las reseñas de otros usuarios son fundamentales para tomar decisiones informadas.
+
+Análisis General: Ambas entrevistas resaltaron la relevancia de la seguridad, la conveniencia y la tecnología en la experiencia de los turistas que participan en actividades alpinas. Los usuarios como
 
 #### Análisis de entrevistas
 
@@ -141,7 +160,7 @@ En esta sección se realizará el análisis de las entrevistas aplicadas a nuest
 
 <!-- TODO: Add a summary of the most relevant information obtained from the users during the interview-->
 
-Do amet mollit cillum laborum id exercitation commodo aute qui ad et consectetur est. Magna minim culpa deserunt aliquip anim ullamco. Quis cillum et ut mollit veniam aliquip. Deserunt tempor exercitation est culpa anim aliquip. Nulla aute in adipisicing ipsum culpa exercitation cupidatat magna non quis irure do laborum.
+Ambas entrevistas resaltaron la relevancia de la seguridad, la conveniencia y la tecnología en la experiencia de los turistas que participan en actividades alpinas. Los usuarios como Nilda buscan una plataforma fácil de usar para encontrar y reservar servicios, mientras que usuarios como Sebastian valoran dispositivos y funcionalidades tecnológicas que les brinden seguridad y datos en tiempo real. Las reseñas de otros usuarios también juegan un papel esencial en la toma de decisiones. Estos insights serán fundamentales para el desarrollo de Go2Climb y la satisfacción de las necesidades de sus usuarios.
 
 ### Needfinding
 
@@ -151,11 +170,15 @@ Los user personas nos permite recopilar las principales características de cada
 
 ##### Tourist
 
-![User Persona Tourist](../static/user-persona-tourist.png)
+El user persona 'Tourist' representa a los aventureros apasionados por el alpinismo que buscan experiencias emocionantes en la montaña. Conocer sus expectativas y desafíos nos ayuda a diseñar una aplicación que enriquezca sus aventuras alpinas y garantice su seguridad.
+
+![User Persona Tourist](../static/user-persona-tourist.png) {.user-persona-img}
 
 ##### Agency
 
-![User Persona Agency](../static/user-persona-agency.png)
+El user persona 'Agency' representa a las agencias especializadas en actividades de alpinismo que buscan proporcionar aventuras seguras y emocionantes a sus clientes. Comprender sus necesidades es fundamental para ofrecer soluciones efectivas que les permitan garantizar la seguridad de sus clientes en las montañas.
+
+![User Persona Agency](../static/user-persona-agency.png) {.user-persona-img}
 
 #### User Task Matrix
 
@@ -163,24 +186,52 @@ Se desarrolló el User Task Matrix para identificar y priorizar las tareas del u
 
 ![User Task Matrix](../static/user-task-matrix.png)
 
+#### User Journey Mapping
+
+Esta herramienta es esencial para comprender en detalle cómo interactúan nuestros usuarios con nuestra aplicación a lo largo de su experiencia. Esta sección nos permite analizar paso a paso el viaje de cada user persona, desde la etapa de descubrimiento hasta la finalización de sus objetivos. Al comprender sus puntos de contacto, emociones y desafíos a lo largo de este viaje, podemos mejorar continuamente nuestra aplicación para brindar experiencias más satisfactorias y efectivas
+
+##### Tourist
+
+Nos sumerge en las experiencias de los turistas aventureros que utilizan nuestra aplicación. Seguimos sus pasos desde la búsqueda de aventuras hasta el monitoreo de su ubicación en tiempo real durante la escalada. Esta visualización detallada nos permite adaptar nuestra aplicación para que coincida con sus expectativas y necesidades, garantizando aventuras inolvidables y seguras.
+
+![User Journey Mapping Tourist](../static/journey-map-tourist.png)
+
+##### Agency
+
+Permite explorar en profundidad cómo una agencia utiliza nuestra aplicación para garantizar la seguridad de sus clientes. Desde la planificación de rutas hasta la implementación de dispositivos de monitoreo, seguimos el viaje de esta agencia mientras trabaja con nuestra tecnología para brindar aventuras emocionantes y seguras
+
+![User Journey Mapping Agency](../static/journey-map-agency.png)
+
 #### Empathy Mapping
 
 Esta herramienta nos permitió entender mejor a nuestro sector objetivo, pues nos permite ver el mundo a través de su perspectiva.
 
 ##### Tourist
 
-![Empathy Mapping Tourist](../static/empathy-map-tourist.png)
+El Empathy Mapping para el segmento "Tourist" es una herramienta de investigación que nos ayuda a comprender profundamente a los turistas que potencialmente utilizarán nuestra plataforma o servicios. Este mapa de empatía se centra en capturar las percepciones, necesidades, pensamientos y emociones de los turistas antes de que utilicen nuestra aplicación o servicios. Al comprender sus puntos de vista y motivaciones, podemos diseñar experiencias que satisfagan sus expectativas y faciliten su viaje.
+
+A continuación, desglosamos las principales áreas que exploramos en nuestro Empathy Mapping para los turistas:
+
+![Empathy Mapping Tourist](../static/empathy-mapping-tourist.png)
 
 ##### Agency
 
-![Empathy Mapping Agency](../static/empathy-map-agency.png)
+El Empathy Mapping para el segmento "Agency" es una herramienta que nos ayuda a comprender a fondo las perspectivas, motivaciones y consideraciones de las agencias que utilizan nuestra plataforma o servicios. A través de este mapa de empatía, capturamos información clave sobre lo que las agencias desean lograr y cómo interactúan con nuestros servicios antes de comenzar a utilizarlos. Esto nos permite diseñar una experiencia que respalde sus objetivos comerciales y mejore su satisfacción.
+
+A continuación, desglosamos las áreas principales que exploramos en nuestro Empathy Mapping para las agencias:
+
+![Empathy Mapping Agency](../static/empathy-mapping-agency.png)
 
 #### As-is Scenario Mapping
 
 ##### Tourist
 
+El AS-IS Scenario Mapping para el segmento "Tourist" representa visualmente la situación actual de los turistas antes de que interactúen con nuestra plataforma o servicios. Este mapa nos ayuda a comprender su situación, necesidades, comportamientos y desafíos antes de considerar nuestra oferta. Al obtener una visión clara de su estado actual, podemos diseñar soluciones que aborden sus preocupaciones y optimicen su experiencia desde el principio.
+
 ![As-is Scenario Mapping](../static/as-is-scenario-map-tourist.png)
 
 ##### Agency
+
+El AS-IS Scenario Mapping para el segmento "Agency" representa visualmente la situación actual de las agencias antes de que interactúen con nuestra plataforma o servicios. Este mapa nos ayuda a comprender su situación, necesidades, comportamientos y desafíos antes de considerar nuestra oferta. Al obtener una visión clara de su estado actual, podemos diseñar soluciones que aborden sus preocupaciones y optimicen su experiencia desde el principio.
 
 ![As-is Scenario Mapping](../static/as-is-scenario-map-agency.png)
