@@ -3,9 +3,10 @@
 | Entrega | Enlace                                             |
 | ------- | -------------------------------------------------- |
 | TB1     | <https://youtu.be/tPqDtuasiCQ?si=k0x0ILrrOhTzfsfU> |
+| TP      | <https://acortar.link/NKZlq2>                      |
 
 ### Repositorios
 
 | Repository Name       | Enlace                                                                   |
 | --------------------- | ------------------------------------------------------------------------ |
-| Project Documentation | <https://github.com/upc-pre-202302-SI572-SW71-softtech/ProjectStatement> |
+| Project Documentation | <https://github.com/nexgeniusupc/plantguard-docs>                        |
