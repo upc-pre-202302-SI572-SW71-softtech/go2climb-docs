@@ -104,30 +104,6 @@ Parkify Landing Page <https://github.com/upc-pre-202302-SI572-SW71-softtech/Land
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el presente sprint.
 
-##### Sprint Planning 1
-
-##### Sprint Backlog 1
-
-##### Development Evidence for Sprint Review
-
-##### Testing Suite Evidence for Sprint Review
-
-##### Execution Evidence for Sprint Review
-
-##### Services Documentation Evidence for Sprint Review
-
-##### Software Deployment Evidence for Sprint Review
-
-##### Team Collaboration Insights during Sprint
-
-#### Validation Interviews
-
-##### Diseño de entrevistas
-
-##### Registro de Entrevistas
-
-##### Landing Page, Services & Applications Implementation
-
 ##### Sprint 1
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el presente sprint.
