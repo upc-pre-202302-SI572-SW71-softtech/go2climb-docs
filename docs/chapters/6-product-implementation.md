@@ -179,9 +179,7 @@ No hubo testing en esta entrega.
 
 #### Sprint 2
 
-##### Sprint 2
-
-###### Sprint Planning 2
+##### Sprint Planning 2
 
 | sprint 2                        |                                                                                                                               |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -198,7 +196,7 @@ No hubo testing en esta entrega.
 | Sprint 2 Velocity               | 8                                                                                                                             |
 | Sum of Story Points             | 30                                                                                                                            |
 
-###### Sprint Backlog 2
+##### Sprint Backlog 2
 
 | Sprint | 2   |
 | ------ | --- |
@@ -224,13 +222,33 @@ No hubo testing en esta entrega.
 |       |                              |         | Implementar vista de planes y suscripciones          | 6hrs          | Jose        | Complete |
 |       |                              |         | Implementar vista de registro                        | 6hrs          | Jose        | Complete |
 
-###### Development Evidence for Sprint Review
+##### Development Evidence for Sprint Review
 
-###### Testing Suite Evidence for Sprint Review
+| Repository                                                                                    | Branch  | Commit id | Commit Message | Commit Message body | Commit on (date) |
+| --------------------------------------------------------------------------------------------- | ------- | --------- | -------------- | ------------------- | ---------------- |
+| upc-pre-202302-SI572-SW71-softtech/LandinPage                                                 | main    | 497c0d3   |                |                     | 27/10/23         |
+| upc-pre-202302-SI572-SW71-softtech/web_app                                                    | develop |           |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/Backend                                                    | main    | 497c2d3   |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/embebed-application-milestoneembebed-application-milestone | main    | 497b1d3   |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/mobile_app_fluttermobile_app_flutter                       | main    | 497e5d3   |                |                     | 02/11/23         |
 
-No hubo testing en esta entrega.
+##### Testing Suite Evidence for Sprint Review
 
-###### Execution Evidence for Sprint Review
+En esta sección, presentamos evidencia clave relacionada con las pruebas realizadas en el sprint actual para el frontend. Esto incluye capturas de pantalla y resultados de dos importantes aspectos de nuestro proceso de calidad: las pruebas de rendimiento realizadas con RedLine13 y el análisis de calidad de código utilizando SonarQube.
+
+###### RedLine13
+
+Adjuntamos capturas de pantalla de las pruebas de rendimiento y carga realizadas en nuestra aplicación utilizando RedLine13. Estas capturas de pantalla ilustran cómo nuestra aplicación se comporta bajo condiciones de carga simuladas y proporcionan información sobre tiempos de respuesta, recursos utilizados y otros datos relevantes.
+
+![Home view redline report](../static/redline13_home_page.jpeg)
+![Response time home view](../static/response-time.jpeg)
+
+###### Análisis de SonarQube
+
+Presentamos un resumen del análisis de calidad del código de nuestra aplicación utilizando SonarQube. Esto incluye métricas de calidad del código, identificación de problemas potenciales, código repetido y cualquier deuda técnica identificada.
+![SonarQube WebApp](../static/sonarqube-webapp.jpeg)
+
+##### Execution Evidence for Sprint Review
 
 ![Testing Endpoints with Postman](../static/endpoint_testing.png)
 ![Api Documentation Swagger](../static/api_documentation.png)
@@ -238,6 +256,18 @@ No hubo testing en esta entrega.
 ![Api Documentation Swagger](../static//api_documentation_3.png)
 ![Iot Execution Wokwi](../static//iot_solution.png)
 
-###### Software Deployment Evidence for Sprint Review
+##### Software Deployment Evidence for Sprint Review
 
-###### Team Collaboration Inshight during Sprint
+**Evidencia de Despliegue del Software para la Revisión del Sprint:**
+
+En esta sección, proporcionamos pruebas visuales y documentadas del proceso de despliegue de nuestra aplicación web como parte de la revisión de sprint. Esta evidencia respalda la transparencia y la calidad de nuestro trabajo en el contexto de este sprint.
+
+![Deployment evidence ](../static/deploymentEvidence.jpg)
+
+##### Team Collaboration Insight during Sprint
+
+**Análisis de Colaboración del Equipo durante el Sprint:**
+
+En este apartado, compartimos una imagen que muestra los insights del repositorio del web app, proporcionando una visión en profundidad de la colaboración del equipo durante el sprint. Estos datos reflejan nuestro enfoque en la comunicación efectiva, la sinergia y el trabajo conjunto para lograr nuestros objetivos de sprint.
+
+![Insights sprint 2](../static/insight_spring_2.jpeg)
