@@ -177,7 +177,6 @@ No hubo testing en esta entrega.
 
 ![img.png](../static/img.png)
 
-
 #### Sprint 2
 
 ##### Sprint 2
@@ -185,7 +184,7 @@ No hubo testing en esta entrega.
 ###### Sprint Planning 2
 
 | sprint 2                        |                                                                                                                               |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | sprint planning background      | Desarrollo de todas las soluciones(mobile app, webservice, embebed aplication)                                                |
 | date                            | 2023-10-17                                                                                                                    |
 | time                            | 9am                                                                                                                           |
@@ -201,32 +200,31 @@ No hubo testing en esta entrega.
 
 ###### Sprint Backlog 2
 
-| Sprint  | 2|
-|---------|--|
+| Sprint | 2   |
+| ------ | --- |
 
-| User Story | Task|
-|------------|-----|
+| User Story | Task |
+| ---------- | ---- |
 
-| id US | Title US                     | Id Task | Description Taks                                    | Estimate(Hrs) | Assigned to | Status   |
-|-------|------------------------------|---------|-----------------------------------------------------|---------------|-------------|----------|
-| US-06 | Desarrollar webservice       |         | Desarrollar e implementar Bounded agency            | 30hrs         | Jerry       | Complete |
-|       |                              |         | Desarrollar e implementar Bounded experience design | 52hrs         | Jerry       | Complete |
-|       |                              |         | Desarrollar e implementar iot management            | 40hrs         | Jack        | Complete |
-| US-07 | Desarrollar Iot Solution     |         | Desarrollar e implementar modulo de temperatura     | 8hrs          | Jack        | Complete |
-|       |                              |         | Desarrollar e implementar modulo de humedad         | 12hrs         | Jack        | Complete |
-|       |                              |         | Desarrollar e implementar modulo de movimiento      | 18hrs         | Jack        | Complete |
-|       |                              |         | Implementar conexion de embebed aplication con back | 10hrs         | Jerry       | Complete |
-| US-08 | Desarrollar aplicacion movil |         | Implementar Login y Register                        | 12hrs         | Jerry       | Complete |
-|       |                              |         | Implementar 3 screens (tracking, health, weather)   | 40hrs         | Arturo      | Complete |
-|       |                              |         | Implementar connexion app con back                  | 20hrs         | Jack        | Complete |
-| US-09 | Desarrollar web application  |         | Implementar Login de la aplicacion web              | 8hrs          | Arturo      | Complete |
-|       |                              |         | Mejorar y corregir agencias screen                  | 12hrs         | Jerry       | Complete |
-|       |                              |         | Implementar Listado de devices                      | 10hrs         | JAck        | Complete |
-
+| id US | Title US                     | Id Task | Description Taks                                     | Estimate(Hrs) | Assigned to | Status   |
+| ----- | ---------------------------- | ------- | ---------------------------------------------------- | ------------- | ----------- | -------- |
+| US-06 | Desarrollar webservice       |         | Desarrollar e implementar Bounded agency             | 30hrs         | Jerry       | Complete |
+|       |                              |         | Desarrollar e implementar Bounded experience design  | 52hrs         | Jerry       | Complete |
+|       |                              |         | Desarrollar e implementar iot management             | 40hrs         | Jack        | Complete |
+| US-07 | Desarrollar Iot Solution     |         | Desarrollar e implementar modulo de temperatura      | 8hrs          | Jack        | Complete |
+|       |                              |         | Desarrollar e implementar modulo de humedad          | 12hrs         | Jack        | Complete |
+|       |                              |         | Desarrollar e implementar modulo de movimiento       | 18hrs         | Jack        | Complete |
+|       |                              |         | Implementar conexión de embebed application con back | 10hrs         | Jerry       | Complete |
+| US-08 | Desarrollar aplicación móvil |         | Implementar Login y Register                         | 12hrs         | Jerry       | Complete |
+|       |                              |         | Implementar 3 screens (tracking, health, weather)    | 40hrs         | Arturo      | Complete |
+|       |                              |         | Implementar conexión app con back                    | 20hrs         | Jack        | Complete |
+| US-09 | Desarrollar web application  |         | Implementar Login de la aplicacion web               | 8hrs          | Arturo      | Complete |
+|       |                              |         | Mejorar y corregir agencias screen                   | 12hrs         | Jerry       | Complete |
+|       |                              |         | Implementar Listado de devices                       | 10hrs         | JAck        | Complete |
+|       |                              |         | Implementar vista de planes y suscripciones          | 6hrs          | Jose        | Complete |
+|       |                              |         | Implementar vista de registro                        | 6hrs          | Jose        | Complete |
 
 ###### Development Evidence for Sprint Review
-
-
 
 ###### Testing Suite Evidence for Sprint Review
 
@@ -234,17 +232,12 @@ No hubo testing en esta entrega.
 
 ###### Execution Evidence for Sprint Review
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_4.png](img_4.png)
-![img_3.png](img_3.png)
+![Testing Endpoints with Postman](../static/endpoint_testing.png)
+![Api Documentation Swagger](../static/api_documentation.png)
+![Api Documentation Swagger](../static//api_documentation_2.png)
+![Api Documentation Swagger](../static//api_documentation_3.png)
+![Iot Execution Wokwi](../static//iot_solution.png)
 
 ###### Software Deployment Evidence for Sprint Review
 
-
-
 ###### Team Collaboration Inshight during Sprint
-
-
-
