@@ -176,3 +176,75 @@ No hubo testing en esta entrega.
 ###### Team Collaboration Insights during Sprint
 
 ![img.png](../static/img.png)
+
+
+#### Sprint 2
+
+##### Sprint 2
+
+###### Sprint Planning 2
+
+| sprint 2                        |                                                                                                                               |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| sprint planning background      | Desarrollo de todas las soluciones(mobile app, webservice, embebed aplication)                                                |
+| date                            | 2023-10-17                                                                                                                    |
+| time                            | 9am                                                                                                                           |
+| location                        | Office                                                                                                                        |
+| prepare by                      | Jack                                                                                                                          |
+| Attendees (to planning meeting) | Team Members                                                                                                                  |
+| Sprint 2 Review Summary         | Contribucion de todos los integrantes en las soluciones.                                                                      |
+| Sprint 2 Retrospective Summary  | Mejorar la entra de la documentacion y contribuir todos los integrantes en el desarrollo de las soluciones                    |
+| Sprint 2 Goal & User Stories    | Desarrollar la apliacion mobile, implementar el embebed application e implementar webservice backend. Mejorar Web application |
+| Sprint 2 Goal                   | Implementar Caracteristicas principales de la solucion en conjunto.                                                           |
+| Sprint 2 Velocity               | 8                                                                                                                             |
+| Sum of Story Points             | 30                                                                                                                            |
+
+###### Sprint Backlog 2
+
+| Sprint  | 2|
+|---------|--|
+
+| User Story | Task|
+|------------|-----|
+
+| id US | Title US                     | Id Task | Description Taks                                    | Estimate(Hrs) | Assigned to | Status   |
+|-------|------------------------------|---------|-----------------------------------------------------|---------------|-------------|----------|
+| US-06 | Desarrollar webservice       |         | Desarrollar e implementar Bounded agency            | 30hrs         | Jerry       | Complete |
+|       |                              |         | Desarrollar e implementar Bounded experience design | 52hrs         | Jerry       | Complete |
+|       |                              |         | Desarrollar e implementar iot management            | 40hrs         | Jack        | Complete |
+| US-07 | Desarrollar Iot Solution     |         | Desarrollar e implementar modulo de temperatura     | 8hrs          | Jack        | Complete |
+|       |                              |         | Desarrollar e implementar modulo de humedad         | 12hrs         | Jack        | Complete |
+|       |                              |         | Desarrollar e implementar modulo de movimiento      | 18hrs         | Jack        | Complete |
+|       |                              |         | Implementar conexion de embebed aplication con back | 10hrs         | Jerry       | Complete |
+| US-08 | Desarrollar aplicacion movil |         | Implementar Login y Register                        | 12hrs         | Jerry       | Complete |
+|       |                              |         | Implementar 3 screens (tracking, health, weather)   | 40hrs         | Arturo      | Complete |
+|       |                              |         | Implementar connexion app con back                  | 20hrs         | Jack        | Complete |
+| US-09 | Desarrollar web application  |         | Implementar Login de la aplicacion web              | 8hrs          | Arturo      | Complete |
+|       |                              |         | Mejorar y corregir agencias screen                  | 12hrs         | Jerry       | Complete |
+|       |                              |         | Implementar Listado de devices                      | 10hrs         | JAck        | Complete |
+
+
+###### Development Evidence for Sprint Review
+
+
+
+###### Testing Suite Evidence for Sprint Review
+
+No hubo testing en esta entrega.
+
+###### Execution Evidence for Sprint Review
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_4.png](img_4.png)
+![img_3.png](img_3.png)
+
+###### Software Deployment Evidence for Sprint Review
+
+
+
+###### Team Collaboration Inshight during Sprint
+
+
+
