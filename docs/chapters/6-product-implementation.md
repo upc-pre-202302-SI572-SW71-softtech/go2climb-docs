@@ -251,6 +251,7 @@ Presentamos un resumen del análisis de calidad del código de nuestra aplicaci�
 ##### Execution Evidence for Sprint Review
 
 ![Testing Endpoints with Postman](../static/endpoint_testing.png)
+![Mobile App](../static/mobile-screen.jpg)
 ![Api Documentation Swagger](../static/api_documentation.png)
 ![Api Documentation Swagger](../static//api_documentation_2.png)
 ![Api Documentation Swagger](../static//api_documentation_3.png)
