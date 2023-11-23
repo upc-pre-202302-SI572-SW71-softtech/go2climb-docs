@@ -193,34 +193,12 @@ No hubo testing en esta entrega.
 | Sprint 2 Retrospective Summary  | Mejorar la entra de la documentacion y contribuir todos los integrantes en el desarrollo de las soluciones                    |
 | Sprint 2 Goal & User Stories    | Desarrollar la apliacion mobile, implementar el embebed application e implementar webservice backend. Mejorar Web application |
 | Sprint 2 Goal                   | Implementar Caracteristicas principales de la solucion en conjunto.                                                           |
-| Sprint 2 Velocity               | 8                                                                                                                             |
-| Sum of Story Points             | 30                                                                                                                            |
+| Sprint 2 Velocity               | 42                                                                                                                            |
+| Sum of Story Points             | 42                                                                                                                            |
 
 ##### Sprint Backlog 2
 
-| Sprint | 2   |
-| ------ | --- |
-
-| User Story | Task |
-| ---------- | ---- |
-
-| id US | Title US                     | Id Task | Description Taks                                     | Estimate(Hrs) | Assigned to | Status   |
-| ----- | ---------------------------- | ------- | ---------------------------------------------------- | ------------- | ----------- | -------- |
-| US-06 | Desarrollar webservice       |         | Desarrollar e implementar Bounded agency             | 30hrs         | Jerry       | Complete |
-|       |                              |         | Desarrollar e implementar Bounded experience design  | 52hrs         | Jerry       | Complete |
-|       |                              |         | Desarrollar e implementar iot management             | 40hrs         | Jack        | Complete |
-| US-07 | Desarrollar Iot Solution     |         | Desarrollar e implementar modulo de temperatura      | 8hrs          | Jack        | Complete |
-|       |                              |         | Desarrollar e implementar modulo de humedad          | 12hrs         | Jack        | Complete |
-|       |                              |         | Desarrollar e implementar modulo de movimiento       | 18hrs         | Jack        | Complete |
-|       |                              |         | Implementar conexión de embebed application con back | 10hrs         | Jerry       | Complete |
-| US-08 | Desarrollar aplicación móvil |         | Implementar Login y Register                         | 12hrs         | Jerry       | Complete |
-|       |                              |         | Implementar 3 screens (tracking, health, weather)    | 40hrs         | Arturo      | Complete |
-|       |                              |         | Implementar conexión app con back                    | 20hrs         | Jack        | Complete |
-| US-09 | Desarrollar web application  |         | Implementar Login de la aplicacion web               | 8hrs          | Arturo      | Complete |
-|       |                              |         | Mejorar y corregir agencias screen                   | 12hrs         | Jerry       | Complete |
-|       |                              |         | Implementar Listado de devices                       | 10hrs         | JAck        | Complete |
-|       |                              |         | Implementar vista de planes y suscripciones          | 6hrs          | Jose        | Complete |
-|       |                              |         | Implementar vista de registro                        | 6hrs          | Jose        | Complete |
+!include (../partials/sprint-backlog-2-table.html)
 
 ##### Development Evidence for Sprint Review
 
@@ -252,13 +230,94 @@ Presentamos un resumen del análisis de calidad del código de nuestra aplicaci�
 
 ![Testing Endpoints with Postman](../static/endpoint_testing.png)
 
-![Mobile App](../static/mobile-screen.jpg)
+![Mobile App 1](../static/mobile-screen.jpg)
 
 ![Api Documentation Swagger](../static/api_documentation.png)
 
 ![Api Documentation Swagger](../static//api_documentation_2.png)
 
 ![Api Documentation Swagger](../static//api_documentation_3.png)
+
+![Iot Execution Wokwi](../static//iot_solution.png)
+
+##### Software Deployment Evidence for Sprint Review
+
+**Evidencia de Despliegue del Software para la Revisión del Sprint:**
+
+En esta sección, proporcionamos pruebas visuales y documentadas del proceso de despliegue de nuestra aplicación web como parte de la revisión de sprint. Esta evidencia respalda la transparencia y la calidad de nuestro trabajo en el contexto de este sprint.
+
+![Deployment evidence ](../static/deploymentEvidence.jpg)
+
+##### Team Collaboration Insight during Sprint
+
+**Análisis de Colaboración del Equipo durante el Sprint:**
+
+En este apartado, compartimos una imagen que muestra los insights del repositorio del web app, proporcionando una visión en profundidad de la colaboración del equipo durante el sprint. Estos datos reflejan nuestro enfoque en la comunicación efectiva, la sinergia y el trabajo conjunto para lograr nuestros objetivos de sprint.
+
+![Insights sprint 2](../static/insight_spring_2.jpeg)
+
+#### Sprint 3
+
+##### Sprint Planning 3
+
+| sprint 3                        |                                                                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| sprint planning background      | Desarrollo de todas las soluciones(mobile app, webservice, embebed aplication)                              |
+| date                            | 2023-11-22                                                                                                  |
+| time                            | 11pm                                                                                                        |
+| location                        | Office                                                                                                      |
+| prepare by                      | Jerry                                                                                                       |
+| Attendees (to planning meeting) | Team Members                                                                                                |
+| Sprint 3 Review Summary         | Contribución de todos los integrantes en las soluciones.                                                    |
+| Sprint 3 Retrospective Summary  | Mejorar la documentación del proyecto y contribuir todos los integrantes en el desarrollo de las soluciones |
+| Sprint 3 Goal & User Stories    | Mejorar y finalizar los productos, mobile application, web application y embedded application               |
+| Sprint 3 Goal                   | Completar y mejorar características pendientes de la aplicación móvil y web.                                |
+| Sprint 3 Velocity               | 23                                                                                                          |
+| Sum of Story Points             | 23                                                                                                          |
+
+##### Sprint Backlog 3
+
+!include (../partials/sprint-backlog-3-table.html)
+
+##### Development Evidence for Sprint Review
+
+| Repository                                                                                    | Branch  | Commit id | Commit Message | Commit Message body | Commit on (date) |
+| --------------------------------------------------------------------------------------------- | ------- | --------- | -------------- | ------------------- | ---------------- |
+| upc-pre-202302-SI572-SW71-softtech/LandinPage                                                 | main    | 497c0d3   |                |                     | 27/10/23         |
+| upc-pre-202302-SI572-SW71-softtech/web_app                                                    | develop |           |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/Backend                                                    | main    | 497c2d3   |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/embebed-application-milestoneembebed-application-milestone | main    | 497b1d3   |                |                     | 04/11/23         |
+| upc-pre-202302-SI572-SW71-softtech/mobile_app_fluttermobile_app_flutter                       | main    | 497e5d3   |                |                     | 02/11/23         |
+
+##### Testing Suite Evidence for Sprint Review
+
+En esta sección, presentamos evidencia clave relacionada con las pruebas realizadas en el sprint actual para el frontend. Esto incluye capturas de pantalla y resultados de dos importantes aspectos de nuestro proceso de calidad: las pruebas de rendimiento realizadas con RedLine13 y el análisis de calidad de código utilizando SonarQube.
+
+###### RedLine13
+
+Adjuntamos capturas de pantalla de las pruebas de rendimiento y carga realizadas en nuestra aplicación utilizando RedLine13. Estas capturas de pantalla ilustran cómo nuestra aplicación se comporta bajo condiciones de carga simuladas y proporcionan información sobre tiempos de respuesta, recursos utilizados y otros datos relevantes.
+
+![Home view redline report](../static/redline13_home_page.jpeg)
+![Response time home view](../static/response-time.jpeg)
+
+###### Análisis de SonarQube
+
+Presentamos un resumen del análisis de calidad del código de nuestra aplicación utilizando SonarQube. Esto incluye métricas de calidad del código, identificación de problemas potenciales, código repetido y cualquier deuda técnica identificada.
+![SonarQube WebApp](../static/sonarqube-webapp.jpeg)
+
+##### Execution Evidence for Sprint Review
+
+![Testing Endpoints with Postman](../static/endpoint_testing.png)
+
+![Mobile App 1](../static/mobile-app-1.jpg)
+
+![Mobile App 2](../static/mobile-app-2.jpg)
+
+![Mobile App 3](../static/mobile-app-3.jpg)
+
+![Mobile App 4](../static/mobile-app-4.jpg)
+
+![Api Documentation Swagger](../static/api-documentation-swagger.jpeg)
 
 ![Iot Execution Wokwi](../static//iot_solution.png)
 
