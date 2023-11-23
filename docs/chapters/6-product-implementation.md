@@ -455,7 +455,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 - Edad: 21 años
 - Residencia: La Victoria
 - Segmento Objetivo: Turista
-- Enlace de entrevista: <https://drive.google.com/drive/folders/1rx8W38dU9ES9nHS2oAsuCjOAQH7ozU6B?usp=sharing>.
+- Enlace de entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c043_upc_edu_pe/EbIOtzoLbf1EpxDm1C801xQBNW9Jq5ljlu4GqbHZDDYUrg?e=hdq4HQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>.
 - Timing: 00:00
 - Duración: 06:25 minutos
 - Resumen: Un aventurero amante de los deportes extremos, compartió su deseo de utilizar tecnología avanzada para mejorar su seguridad y experiencia mientras realiza actividades alpinas. Busca dispositivos y herramientas que le proporcionen datos en tiempo real sobre su ubicación y salud, así como alertas de seguridad. Además, destacó la importancia de mantenerse conectado durante sus aventuras.
@@ -479,6 +479,6 @@ Análisis General: Ambas entrevistas resaltaron la relevancia de la seguridad, l
 
 ### Video About-the-Product
 
-![About The Product Screnshoot](../static/about-the-team.jpeg)
+![About The Product Screnshoot](../static/about-the-product.jpeg)
 
-[About the Product video link](<https://upcedupe-my.sharepoint.com/:v:/r/personal/u20201c043_upc_edu_pe/Documents/Recordings/Reuni%C3%B3n%20con%20u20201c043%20(Quispe%20Gavilan,%20Jerry)-20231123_052207-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=ipcfue&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45NX19>)
+[About the Product video link](https://upcedupe-my.sharepoint.com/personal/u20201c043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c043%5Fupc%5Fedu%5Fpe%2FDocuments%2FRecordings%2FReuni%C3%B3n%20con%20u20201c043%20%28Quispe%20Gavilan%2C%20Jerry%29%2D20231123%5F052207%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
