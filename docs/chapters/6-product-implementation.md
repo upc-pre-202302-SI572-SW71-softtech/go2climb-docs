@@ -248,6 +248,16 @@ En esta sección, proporcionamos pruebas visuales y documentadas del proceso de 
 
 ![Deployment evidence ](../static/deploymentEvidence.jpg)
 
+Deployed Web App: <https://go2climb-softtech-v1.netlify.app>
+
+Deployed WebAPI: <https://backendiot.azurewebsites.net/swagger-ui/index.html>
+
+Deployed APK: <https://github.com/upc-pre-202302-SI572-SW71-softtech/mobile_app_flutter/releases/download/TF/Go2Climb.apk>
+
+Wokwi Project Link: <https://wokwi.com/projects/378234930126673921>
+
+Deplyed Landing Page: <https://upc-pre-202302-si572-sw71-softtech.github.io/landinpage-go2climb/>
+
 ##### Team Collaboration Insight during Sprint
 
 **Análisis de Colaboración del Equipo durante el Sprint:**
@@ -336,3 +346,139 @@ En esta sección, proporcionamos pruebas visuales y documentadas del proceso de 
 En este apartado, compartimos una imagen que muestra los insights del repositorio del web app, proporcionando una visión en profundidad de la colaboración del equipo durante el sprint. Estos datos reflejan nuestro enfoque en la comunicación efectiva, la sinergia y el trabajo conjunto para lograr nuestros objetivos de sprint.
 
 ![Insights sprint 2](../static/insight_spring_2.jpeg)
+
+### Validation Interviews
+
+La sección de 'Validation Interviews' constituye una etapa crucial dentro del proceso de validación de nuestro producto. En esta fase, llevamos a cabo entrevistas específicas y estructuradas con usuarios, clientes potenciales o stakeholders clave. El propósito principal es recopilar información detallada y retroalimentación directa sobre la percepción, experiencias y necesidades de los usuarios en relación con nuestro producto.
+
+#### Diseño de Entrevistas
+
+**Preguntas principales y complementarias para entrevistas:**
+
+Como parte del análisis needfinding del proyecto, un paso importante que hay que seguir es la realización de entrevistas a los segmentos objetivos para la captación de necesidades y oportunidad de enfatizar con ellos en busca de la creación de la mejor solución software.
+
+A continuación, se presenta la línea de secuencias y la lista de preguntas a realizar a nuestros usuarios.
+
+**Segmento de agencias:**
+
+Bienvenida {.small-subtitle}
+
+Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que pretende ayudar a mejorar la experiencia de alpinismo en un ambiente mucho más social y conociendo personas qué también disfruten este deporte. Tenemos una serie de teorías respecto a los problemas que se enfrentan los turistas de aventura al momento de buscar empresas de alpinismo confiables y quisiera contrastarlas contigo para ver si estamos en lo cierto o no. Si te parece comenzaré con algunas preguntas a continuación y al finalizar te cuento de qué va el proyecto.
+
+Datos demográficos {.small-subtitle}
+
+¿Podrías contarnos un poco más de ti? (Un poco de tu historia, quien eres, tu edad, dónde vives, estudios, si es que trabajas actualmente, responsabilidades cotidianas, hobbies, etc.)
+
+La Personas debe responder lo siguiente, de lo contrario preguntar sobre estos tópicos:
+
+· Nombre
+
+· Edad
+
+· Distrito de residencia
+
+· Estado civil
+
+· Familia
+
+· Ocupación
+
+· Hobbies
+
+Ahora a manera de dinámica, mencionaré algunas frases y responde como mejor creas conveniente (esta parte realizar como un tipo de ping pong de preguntas y respuestas):
+
+· Programas de televisión de la infancia
+
+· Programas de televisión de la actualidad
+
+· Carro particular o transporte público
+
+· Android o Apple
+
+· Windows, Linux o Mac
+
+· Aprendizaje guiado o autodidacta
+
+· Ver una película o leer un libro
+
+· Redes sociales más utilizadas
+
+· Menciona 2 otras apps (diferente a redes sociales, pueden ser juegos de celular también) que utilices frecuentemente
+
+· Plan telefónico prepago o postpago
+
+· Banco preferido
+
+Principales problemas {.medium-subtitle}
+
+· ¿Cuánta experiencia tienes como guía en alpinismo?
+
+· ¿Has utilizado servicios de publicidad para incrementar el flujo de clientes? ¿Qué servicios has utilizado? ¿Cuán efectivos han sido?
+
+· ¿Qué medios utilizas para comunicarte con tus clientes? ¿Cuál es tu favorito?
+
+· ¿Has tenido alguna mala experiencia con tus clientes cuando contratan tus servicios? ¿Cómo fue?
+
+· ¿Cómo gestionas los pagos de tus servicios con tus clientes?
+
+· ¿Qué crees que buscan los turistas cuando buscan contratar algún servicio de alpinismo?
+
+· ¿Cuántas personas en promedio anual usan tu servicio?
+
+· ¿Consideras que hay una comunidad grande de personas que realizan montañismo o alpinismo? (la respuesta será no así que.) ¿Cómo crees que se podría cambiar eso?
+
+· ¿Qué crees que es lo que el cliente valora más del servicio?
+
+· ¿Crees que publicándolos en una plataforma enfocada en montañismo aumentaría o disminuiría el alcance que tienes actualmente? ¿Por qué?
+
+**Breve Pitch:**
+
+Estamos desarrollando una plataforma web enfocada en ofrecer servicios de alpinismo. Las empresas podrán publicitarse en la plataforma, junto con los precios, rutas, itinerarios, horarios y experiencias. Asimismo, los turistas podrán seleccionar la empresa de su preferencia, reaccionar a las experiencias y calificar a la empresa.
+
+Compromiso {.medium-subtitle}
+
+¿Qué te ha parecido? ¿Tienes alguna recomendación para nosotros?
+
+Gracias por habernos concedido esta entrevista, tus respuestas son valiosas para nosotros
+
+Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas cuantas semanas, donde te podremos mostrarte cómo va el desarrollo de nuestra idea, donde podremos mostrarte el prototipo de nuestra aplicación y obtener retroalimentación de ti una vez más.
+
+#### Registro de Entrevistas
+
+##### Entrevista N°1
+
+![Entrevista Tourist 1](../static/interview-icon.png)
+
+<!--Change data for each person-->
+
+- Nombre: Sebastián Andre Ramírez Mendez
+- Edad: 21 años
+- Residencia: La Victoria
+- Segmento Objetivo: Turista
+- Enlace de entrevista: <https://drive.google.com/drive/folders/1rx8W38dU9ES9nHS2oAsuCjOAQH7ozU6B?usp=sharing>.
+- Timing: 00:00
+- Duración: 06:25 minutos
+- Resumen: Un aventurero amante de los deportes extremos, compartió su deseo de utilizar tecnología avanzada para mejorar su seguridad y experiencia mientras realiza actividades alpinas. Busca dispositivos y herramientas que le proporcionen datos en tiempo real sobre su ubicación y salud, así como alertas de seguridad. Además, destacó la importancia de mantenerse conectado durante sus aventuras.
+
+##### Entrevista N°2
+
+![Entrevista Tourist 2](../static/interview-icon.png)
+
+<!--Change data for each person-->
+
+- Nombre: Nilda Sharol Flores Ramirez
+- Edad: 23 años
+- Residencia: Mozambique
+- Segmento Objetivo: Agency Manager
+- Enlace de entrevista: <https://drive.google.com/drive/folders/1rx8W38dU9ES9nHS2oAsuCjOAQH7ozU6B?usp=sharing>.
+- Timing: 06:26
+- Duración: 04:25 minutos
+- Resumen: Durante la conversación, una entusiasta de actividades al aire libre, se resaltó su necesidad de encontrar y reservar servicios de alpinismo de manera sencilla y segura. Valoró la conveniencia de tener acceso a información detallada sobre las rutas y el clima antes de comprometerse con una actividad. María también mencionó que las reseñas de otros usuarios son fundamentales para tomar decisiones informadas.
+
+Análisis General: Ambas entrevistas resaltaron la relevancia de la seguridad, la conveniencia y la tecnología en la experiencia de los turistas que participan en actividades alpinas. Los usuarios como
+
+### Video About-the-Product
+
+![About The Product Screnshoot](../static/about-the-team.jpeg)
+
+[About the Product video link](<https://upcedupe-my.sharepoint.com/:v:/r/personal/u20201c043_upc_edu_pe/Documents/Recordings/Reuni%C3%B3n%20con%20u20201c043%20(Quispe%20Gavilan,%20Jerry)-20231123_052207-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=ipcfue&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45NX19>)

@@ -9,4 +9,12 @@
 | 2.0.2       | 06/09/23  | Arturo Moron    | Mobile prototyping                                |
 | 2.0.3       | 10/09/23  | Jerry Quispe    | Documentación de wireflows & Wireframes web       |
 | 2.0.4       | 10/09/23  | Jerry Quispe    | Sprint documentation                              |
-| 2.1.0       | 10/09/23  | José Cayllahua  | Entrega final de la TP1                           |
+| 2.0.4       | 10/09/23  | Jerry Quispe    | Entrega final TP1                                 |
+| 2.1.0       | 10/11/23  | Jack Del Águila | Sprint 2                                          |
+| 2.1.1       | 10/11/23  | Arturo Moron    | Sprint 2 actualizado                              |
+| 2.1.2       | 10/11/23  | Jerry Quispe    | Sprint 2 actualizado                              |
+| 2.1.3       | 10/11/23  | José Cayllahua  | Entrega final TB2                                 |
+| 2.2.1       | 23/11/23  | Jack Del Águila | Correciones realizadas                            |
+| 2.2.2       | 23/11/23  | Arturo Moron    | Correciones realizadas                            |
+| 2.2.3       | 23/11/23  | Jerry Quispe    | Correciones realizadas                            |
+| 2.2.4       | 23/11/23  | José Cayllahua  | Entrega final TF1                                 |
