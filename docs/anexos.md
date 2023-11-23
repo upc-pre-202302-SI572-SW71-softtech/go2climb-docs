@@ -5,7 +5,7 @@
 | TB1     | <https://youtu.be/tPqDtuasiCQ?si=k0x0ILrrOhTzfsfU> |
 | TP      | <https://acortar.link/NKZlq2>                      |
 | TB2     | <https://youtu.be/tPqDtuasiCQ?si=k0x0ILrrOhTzfsfU> |
-| TF      | <https://acortar.link/EqutTy>                      |
+| TF      | <https://acortar.link/90tBCc>                      |
 
 ### Repositorios
 
