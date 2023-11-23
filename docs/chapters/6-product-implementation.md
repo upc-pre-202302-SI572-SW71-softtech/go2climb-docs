@@ -256,7 +256,7 @@ Deployed APK: <https://github.com/upc-pre-202302-SI572-SW71-softtech/mobile_app_
 
 Wokwi Project Link: <https://wokwi.com/projects/378234930126673921>
 
-Deplyed Landing Page: <https://upc-pre-202302-si572-sw71-softtech.github.io/landinpage-go2climb/>
+DeplOyed Landing Page: <https://upc-pre-202302-si572-sw71-softtech.github.io/landinpage-go2climb/>
 
 ##### Team Collaboration Insight during Sprint
 
@@ -470,7 +470,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 - Edad: 23 años
 - Residencia: Mozambique
 - Segmento Objetivo: Agency Manager
-- Enlace de entrevista: <https://drive.google.com/drive/folders/1rx8W38dU9ES9nHS2oAsuCjOAQH7ozU6B?usp=sharing>.
+- Enlace de entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c043_upc_edu_pe/EWj_pWHlKMxMj0CTteUf_AoBxLDHJ035D3R02dqXrngufg?e=N0hPmI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>.
 - Timing: 06:26
 - Duración: 04:25 minutos
 - Resumen: Durante la conversación, una entusiasta de actividades al aire libre, se resaltó su necesidad de encontrar y reservar servicios de alpinismo de manera sencilla y segura. Valoró la conveniencia de tener acceso a información detallada sobre las rutas y el clima antes de comprometerse con una actividad. María también mencionó que las reseñas de otros usuarios son fundamentales para tomar decisiones informadas.
